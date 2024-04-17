@@ -23,6 +23,8 @@ WebUI.click(findTestObject('Navigation TLI/a_Tindak Lanjut Internal'))
 
 WebUI.click(findTestObject('Navigation TLI/a_Rekomendasi'))
 
+WebUI.verifyElementPresent(findTestObject('Navigation TLI/a_Berita Acara TL'), 0)
+
 WebUI.click(findTestObject('Navigation TLI/a_Berita Acara TL'))
 
 WebUI.comment('end of the navigation script')
