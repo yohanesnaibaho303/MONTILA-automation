@@ -21,19 +21,19 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [:], FailureHandling.STOP_ON_
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Surat Tugas - Cari Surat Tugas'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Upload ST/Upload ST by ID Icon'))
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Upload ST/Upload ST by ID Icon'))
 
-WebUI.setText(findTestObject('Upload ST/textarea_Lokasi Penyimpanan Berkas_TblDokum_3dcce1'), 'Penyimpanan Berkas di Gudang Arsip Serbaguna')
+WebUI.setText(findTestObject('Cari Surat Tugas/Upload ST/textarea_Lokasi Penyimpanan Berkas_TblDokum_3dcce1'), 'Penyimpanan Berkas di Gudang Arsip Serbaguna')
 
-WebUI.setText(findTestObject('Upload ST/textarea_Keterangan Singkat_TblDokumentasiA_8df5b0'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et leo duis ut diam quam. Sagittis purus sit amet volutpat consequat mauris nunc. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Ut diam quam nulla porttitor massa id. Mollis aliquam ut porttitor leo a diam. Hendrerit gravida rutrum quisque non tellus orci. Dignissim cras tincidunt lobortis feugiat vivamus. Sit amet commodo nulla facilisi nullam. Aenean et tortor at risus viverra adipiscing. Vitae ultricies leo integer malesuada nunc vel risus. Urna nunc id cursus metus aliquam eleifend mi. Eget nunc lobortis mattis aliquam faucibus purus in massa tempor. Rhoncus mattis rhoncus urna neque. Donec ultrices tincidunt arcu non sodales neque sodales ut etiam. Risus viverra adipiscing at in tellus integer.')
+WebUI.setText(findTestObject('Cari Surat Tugas/Upload ST/textarea_Keterangan Singkat_TblDokumentasiA_8df5b0'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et leo duis ut diam quam. Sagittis purus sit amet volutpat consequat mauris nunc. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Ut diam quam nulla porttitor massa id. Mollis aliquam ut porttitor leo a diam. Hendrerit gravida rutrum quisque non tellus orci. Dignissim cras tincidunt lobortis feugiat vivamus. Sit amet commodo nulla facilisi nullam. Aenean et tortor at risus viverra adipiscing. Vitae ultricies leo integer malesuada nunc vel risus. Urna nunc id cursus metus aliquam eleifend mi. Eget nunc lobortis mattis aliquam faucibus purus in massa tempor. Rhoncus mattis rhoncus urna neque. Donec ultrices tincidunt arcu non sodales neque sodales ut etiam. Risus viverra adipiscing at in tellus integer.')
 
-WebUI.click(findTestObject('Object Repository/Upload ST/span_Pilih Jenis Dokumen'))
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Upload ST/span_Pilih Jenis Dokumen'))
 
-WebUI.click(findTestObject('Upload ST/li_Surat Tugas'))
+WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/li_Surat Tugas'))
 
-WebUI.verifyElementClickable(findTestObject('Upload ST/input_Browse_TblDokumentasiAuditfile'))
+WebUI.verifyElementClickable(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'))
 
-WebUI.click(findTestObject('Upload ST/input_Browse_TblDokumentasiAuditfile'))
+WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'))
 
-WebUI.uploadFile(findTestObject('Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf(1)')
+WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf(1)')
 

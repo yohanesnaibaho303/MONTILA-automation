@@ -6,16 +6,16 @@
    <elementGuidId>5ecccc1e-7dcf-42fc-ab4d-07ecd5f9d8fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-tbldokumentasiaudit-iddokumen-result-k83o-6</value>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Surat Tugas' or . = 'Surat Tugas')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//li[@id='select2-tbldokumentasiaudit-iddokumen-result-k83o-6']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Surat Tugas' or . = 'Surat Tugas')]</value>
+         <key>CSS</key>
+         <value>#select2-tbldokumentasiaudit-iddokumen-result-k83o-6</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

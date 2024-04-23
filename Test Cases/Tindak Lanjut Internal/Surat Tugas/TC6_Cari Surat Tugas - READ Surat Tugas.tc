@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Read surat tugas by id</description>
+   <name>TC6_Cari Surat Tugas - READ Surat Tugas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8ec197-3345-4b6b-ae42-eff29f01ea2b</testCaseGuid>
+</TestCaseEntity>

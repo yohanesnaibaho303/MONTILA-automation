@@ -6,12 +6,12 @@
    <elementGuidId>2a6c29cf-b9c6-4a9b-bc37-be90af25a7a2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tbldokumentasiaudit-keterangansingkat</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@id='tbldokumentasiaudit-keterangansingkat']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tbldokumentasiaudit-keterangansingkat</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

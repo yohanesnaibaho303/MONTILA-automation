@@ -6,12 +6,12 @@
    <elementGuidId>fe08e8ab-16d9-455f-b7f2-74b602ff0de5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.glyphicon.glyphicon-cloud-upload</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//a[@title='Upload Surat Tugas'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-cloud-upload</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c8fdfcec-ea45-4d63-bfcf-ee4958515eab</webElementGuid>
+      <webElementGuid>8723d967-7825-42cf-85d2-aa58077ed412</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>glyphicon glyphicon-cloud-upload</value>
-      <webElementGuid>800f7d7e-c25d-4b49-a6dc-49dcf35479bc</webElementGuid>
+      <webElementGuid>0e266bf0-a909-444e-8981-93fa5e479eae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w1-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w1&quot;]/td[@class=&quot;w1&quot;]/a[@class=&quot;btn btn-sm btn-primary&quot;]/span[@class=&quot;glyphicon glyphicon-cloud-upload&quot;]</value>
-      <webElementGuid>f7bb6ce6-d6f6-42a8-8405-80d83f5993cf</webElementGuid>
+      <webElementGuid>8e33837d-0e8b-4e5e-a2dd-66b35db9cb26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='w1-container']/table/tbody/tr/td[7]/a/span</value>
-      <webElementGuid>4c08e61e-ed70-4c4f-a09c-006f14b8a8f5</webElementGuid>
+      <webElementGuid>bb8430e0-811b-49f7-943e-2f88949f5576</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/a/span</value>
-      <webElementGuid>0d1bc2cf-d0e1-42d6-bd55-35c41424f6b1</webElementGuid>
+      <webElementGuid>253ac8cf-25c5-4443-81f1-389aaacd256b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

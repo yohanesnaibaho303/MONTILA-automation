@@ -6,12 +6,12 @@
    <elementGuidId>d40e99d6-47d1-4270-b2de-b4e86857f007</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-tbldokumentasiaudit-iddokumen-container</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span[@id='select2-tbldokumentasiaudit-iddokumen-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbldokumentasiaudit-iddokumen-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

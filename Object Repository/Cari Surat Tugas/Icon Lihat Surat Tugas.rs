@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon Lihat Surat Tugas</name>
+   <tag></tag>
+   <elementGuidId>9b9df6ae-ffe2-42ce-93cc-3e880c1f3c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@title='Lihat Surat Tugas'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-eye-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>159424f2-ec89-4129-8db2-07762c7ee592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-eye-open</value>
+      <webElementGuid>00c50150-1d3e-440e-afc7-3e932993f946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w1-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w1&quot;]/td[8]/a[@class=&quot;btn btn-sm btn-success&quot;]/span[@class=&quot;glyphicon glyphicon-eye-open&quot;]</value>
+      <webElementGuid>6a68425e-182c-495e-b0df-5efaca43240c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w1-container']/table/tbody/tr/td[8]/a/span</value>
+      <webElementGuid>6a608dce-263f-4790-b929-85a21b0ada70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a/span</value>
+      <webElementGuid>d0394a88-e5b6-474e-bce5-4449d6f5943d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
