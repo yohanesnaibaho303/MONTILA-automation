@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Andi Dharmawan Pribadi - (NPP 02289) -                            (Jabatan Deputi Direksi Bidang WASIN)</name>
+   <tag></tag>
+   <elementGuidId>836ea569-a5ba-4556-bef1-f40b5deaeae2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Andi Dharmawan Pribadi - (NPP: 02289) - 
+									                        	   (Jabatan: Deputi Direksi Bidang WASIN)' or . = 'Andi Dharmawan Pribadi - (NPP: 02289) - 
+									                        	   (Jabatan: Deputi Direksi Bidang WASIN)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2cdc4d95-dc22-4386-9117-9dd141bccaf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>779de4d8-89d1-47c3-a3ff-9491c9e498f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289</value>
+      <webElementGuid>a09d8942-20bf-4150-9994-3c5230ff9bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>9172a893-c94a-467b-9533-37ece44015c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>62f4d3a3-5b31-4b32-bd7b-47d692cdc19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289</value>
+      <webElementGuid>7dc4d254-17c5-4110-b702-2e685bf29510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Andi Dharmawan Pribadi - (NPP: 02289) - 
+									                        	   (Jabatan: Deputi Direksi Bidang WASIN)</value>
+      <webElementGuid>4f27bd4b-9596-4208-a06c-e48d7ef54962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289&quot;)</value>
+      <webElementGuid>6c94e3d7-4146-4041-9a3f-2717ca5fa7b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289']</value>
+      <webElementGuid>ffe67716-b398-4e49-ae68-801d66cd992c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-tbltimauditpejabat-idauditorketuatim-results']/li[3]</value>
+      <webElementGuid>e7f545e3-a36e-4013-b4c7-96beaa20a51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[3]</value>
+      <webElementGuid>4524b318-6580-4dae-a793-25a068c92007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[3]</value>
+      <webElementGuid>ab8e33da-ee2d-4590-b5fc-47b075aca7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-tbltimauditpejabat-idauditorketuatim-result-h4mc-02289' and (text() = 'Andi Dharmawan Pribadi - (NPP: 02289) - 
+									                        	   (Jabatan: Deputi Direksi Bidang WASIN)' or . = 'Andi Dharmawan Pribadi - (NPP: 02289) - 
+									                        	   (Jabatan: Deputi Direksi Bidang WASIN)')]</value>
+      <webElementGuid>40a8887f-607e-4da7-8f41-b592487823ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

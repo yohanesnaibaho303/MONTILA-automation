@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test TLI</name>
+   <name>TC4_Cari Surat Tugas</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cf984fda-3d68-42c9-8bba-9153e6205caf</testCaseGuid>
+   <testCaseGuid>6b306c2a-2d23-4a5d-a90b-486285cad8fe</testCaseGuid>
 </TestCaseEntity>

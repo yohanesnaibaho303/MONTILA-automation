@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Indra Septiawan Kusumawardhana - (NPP 08104) -                            (Jabatan Staf Bidang PEP)</name>
+   <tag></tag>
+   <elementGuidId>91980d6c-11e9-4cdd-8c80-e7548d133c9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-tbltimaudit-1-idauditor-result-6d1v-08104']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Indra Septiawan Kusumawardhana - (NPP: 08104) - 
+												                        	   (Jabatan: Staf Bidang PEP)' or . = 'Indra Septiawan Kusumawardhana - (NPP: 08104) - 
+												                        	   (Jabatan: Staf Bidang PEP)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimaudit-1-idauditor-result-6d1v-08104</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>942475da-20d6-47f4-b03c-334246e5992a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>fbdfbd29-90f2-4a56-aee4-a5aa33f9a7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-tbltimaudit-1-idauditor-result-6d1v-08104</value>
+      <webElementGuid>5bbedb1e-b0f2-48e6-847c-8735c71c1ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b6e4fea5-aa76-4c12-a53b-22cbd8998a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ccdafc1f-2f18-4679-9dd7-2e820012ed10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-tbltimaudit-1-idauditor-result-6d1v-08104</value>
+      <webElementGuid>1e2b8f60-d0bf-4883-8d78-063a47709e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indra Septiawan Kusumawardhana - (NPP: 08104) - 
+												                        	   (Jabatan: Staf Bidang PEP)</value>
+      <webElementGuid>e30099fd-37ba-4b22-90ba-b9d3d2d197c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimaudit-1-idauditor-result-6d1v-08104&quot;)</value>
+      <webElementGuid>da12262a-ff7a-4e38-a80f-d41090e49ab7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-tbltimaudit-1-idauditor-result-6d1v-08104']</value>
+      <webElementGuid>bf09e270-91c8-4e75-9ae1-8e2ebb434d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-tbltimaudit-1-idauditor-results']/li[3]</value>
+      <webElementGuid>5bb2ec56-95b0-437c-ba50-ce270f882355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[3]</value>
+      <webElementGuid>b5cb92a0-aba3-4d05-9a5e-c90a379cb6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-tbltimaudit-1-idauditor-result-6d1v-08104' and (text() = 'Indra Septiawan Kusumawardhana - (NPP: 08104) - 
+												                        	   (Jabatan: Staf Bidang PEP)' or . = 'Indra Septiawan Kusumawardhana - (NPP: 08104) - 
+												                        	   (Jabatan: Staf Bidang PEP)')]</value>
+      <webElementGuid>4ae1f0c3-d823-4e7a-b251-b544f5a46029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

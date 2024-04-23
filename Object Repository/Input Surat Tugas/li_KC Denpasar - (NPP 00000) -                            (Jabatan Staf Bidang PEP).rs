@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_KC Denpasar - (NPP 00000) -                            (Jabatan Staf Bidang PEP)</name>
+   <tag></tag>
+   <elementGuidId>ea4535e7-cbc4-4d1f-9a5e-13a9940f01d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-tbltimaudit-0-idauditor-result-xg2i-00000']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'KC Denpasar - (NPP: 00000) - 
+												                        	   (Jabatan: Staf Bidang PEP)' or . = 'KC Denpasar - (NPP: 00000) - 
+												                        	   (Jabatan: Staf Bidang PEP)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimaudit-0-idauditor-result-xg2i-00000</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>009f45c3-5a0f-4ea5-b6f6-6c8678a222f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>fc9b62ea-47a3-4ddc-8ff2-25617ee1d467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-tbltimaudit-0-idauditor-result-xg2i-00000</value>
+      <webElementGuid>a379197b-8a82-4b15-9032-5e158f3c3530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>13a68a17-62b8-4418-a74d-86db2a8c2cbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>202c6c83-81aa-4aad-864e-05ac5d66c335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-tbltimaudit-0-idauditor-result-xg2i-00000</value>
+      <webElementGuid>ed54d9a2-e2c6-4163-950b-0d028705d34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KC Denpasar - (NPP: 00000) - 
+												                        	   (Jabatan: Staf Bidang PEP)</value>
+      <webElementGuid>187ec6d9-b397-4089-b893-1bae19db0deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimaudit-0-idauditor-result-xg2i-00000&quot;)</value>
+      <webElementGuid>16c02b14-25cf-4a45-a310-b5b1b5fd114a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-tbltimaudit-0-idauditor-result-xg2i-00000']</value>
+      <webElementGuid>d1d8e3d3-f213-4d1d-9457-befeb26bd1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-tbltimaudit-0-idauditor-results']/li</value>
+      <webElementGuid>24e58849-719f-4992-a425-f174262efe20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
+      <webElementGuid>85ce3b66-760a-4741-878f-d973a741e543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li</value>
+      <webElementGuid>05514866-bed2-401a-aa7c-2f442df5d46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-tbltimaudit-0-idauditor-result-xg2i-00000' and (text() = 'KC Denpasar - (NPP: 00000) - 
+												                        	   (Jabatan: Staf Bidang PEP)' or . = 'KC Denpasar - (NPP: 00000) - 
+												                        	   (Jabatan: Staf Bidang PEP)')]</value>
+      <webElementGuid>2d3bec0d-cd3c-430a-97fc-f589f2380708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -43,7 +43,7 @@ WebUI.comment('Automation Bot mengisi UID dan PWD secara otomatis')
 
 WebUI.setText(findTestObject('Page_Login/input_username'), GlobalVariable.username_2)
 
-WebUI.setEncryptedText(findTestObject('Page_Login/input_password'), 'eNGgvu3VcMGDTiHY9sj+Pg==')
+WebUI.setEncryptedText(findTestObject('Page_Login/input_password'), 'TWJ6FF3V6ZnhxRAbxL11pQ==')
 
 WebUI.comment('Setelah mengisi Valid data user diharapkan akan dialihkan ke halaman utama atau dashboard')
 

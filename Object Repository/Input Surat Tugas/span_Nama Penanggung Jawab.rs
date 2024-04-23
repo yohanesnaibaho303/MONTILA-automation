@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama Penanggung Jawab</name>
+   <tag></tag>
+   <elementGuidId>798527c3-b47f-46a6-9baa-b024d0f1acd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-tbltimauditpejabat-idauditorpenanggungjawab-container']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorpenanggungjawab-container > span.select2-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d1d404d-0210-43c5-8384-3191b4cba946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>f8853d53-43ab-4d33-9ffd-efaaca67a780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Penanggung Jawab</value>
+      <webElementGuid>49354e61-95cf-4cf7-93c7-ff60ec984e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorpenanggungjawab-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>3a3b9aed-434d-40ee-8ef8-78d1d269474c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-tbltimauditpejabat-idauditorpenanggungjawab-container']/span</value>
+      <webElementGuid>3db6d4c5-c4c8-4bea-a394-d99562e11d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanggung Jawab'])[1]/following::span[5]</value>
+      <webElementGuid>617ddd15-efd5-4e35-9a01-be376d08a92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengendali Mutu'])[1]/preceding::span[3]</value>
+      <webElementGuid>9bc5b7a7-6257-4a8a-a740-98d65bc4ca4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pengendali Mutu'])[2]/preceding::span[4]</value>
+      <webElementGuid>fe488d7c-1999-46ef-8f0a-5a4924e37bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/span/span/span/span/span</value>
+      <webElementGuid>8db22728-a586-4518-9bb8-bdb60e81c11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama Penanggung Jawab' or . = 'Nama Penanggung Jawab')]</value>
+      <webElementGuid>408418df-9931-4491-b970-bee6c39ed0d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

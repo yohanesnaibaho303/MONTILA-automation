@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Yusuf Sundut Harahap - (NPP 07505) -                            (Jabatan Asisten Deputi PPP)</name>
+   <tag></tag>
+   <elementGuidId>14bae7d2-dc4a-434a-8f40-f817223fbaa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Yusuf Sundut Harahap - (NPP: 07505) - 
+									                        	   (Jabatan: Asisten Deputi PPP)' or . = 'Yusuf Sundut Harahap - (NPP: 07505) - 
+									                        	   (Jabatan: Asisten Deputi PPP)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>15df815f-5a41-45ce-8937-50ad8997c913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>61a175de-4126-4abb-89d9-6cc967ef7bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505</value>
+      <webElementGuid>8635a0a6-94ad-4604-a7f3-d0ef8b3e22ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>581db44b-5b91-4a4d-b0af-eae17440bdd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7d64182b-66a5-49d3-95ba-22603f2cabca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505</value>
+      <webElementGuid>ca43ab4b-0314-4f66-91df-c768f03aa86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yusuf Sundut Harahap - (NPP: 07505) - 
+									                        	   (Jabatan: Asisten Deputi PPP)</value>
+      <webElementGuid>202e5bc2-a294-455f-8ca4-646df686b08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505&quot;)</value>
+      <webElementGuid>54acf5b0-8a1c-4030-8a8c-fbcb1ead4e93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505']</value>
+      <webElementGuid>76cdce53-d196-4c94-b55e-23106091c9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-tbltimauditpejabat-idauditorketuatim-results']/li</value>
+      <webElementGuid>d99b02b1-e766-42be-b56c-0562b746ccde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
+      <webElementGuid>16c4facf-b09d-44dc-a239-1f249a53ca84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li</value>
+      <webElementGuid>7483c937-9405-4f22-934d-c749523296df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-tbltimauditpejabat-idauditorketuatim-result-pnqb-07505' and (text() = 'Yusuf Sundut Harahap - (NPP: 07505) - 
+									                        	   (Jabatan: Asisten Deputi PPP)' or . = 'Yusuf Sundut Harahap - (NPP: 07505) - 
+									                        	   (Jabatan: Asisten Deputi PPP)')]</value>
+      <webElementGuid>37c4d899-2df7-4341-a448-6c42b11701e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

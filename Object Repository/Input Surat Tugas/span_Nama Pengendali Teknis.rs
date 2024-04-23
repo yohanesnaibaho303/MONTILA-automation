@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama Pengendali Teknis</name>
+   <tag></tag>
+   <elementGuidId>60af80a0-4ef1-4c2a-a6d8-cafd17895d4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-tbltimauditpejabat-idauditorpengendaliteknis-container']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorpengendaliteknis-container > span.select2-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c418354-73c8-472b-afbf-c99b3ff4a244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>bafae6e1-dded-44f3-b611-358d247f4dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Pengendali Teknis</value>
+      <webElementGuid>d331a169-cf8f-45b2-b348-82eb81e7f2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorpengendaliteknis-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>72b7b136-2dd8-4aba-a3dc-f87d7aea2663</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-tbltimauditpejabat-idauditorpengendaliteknis-container']/span</value>
+      <webElementGuid>ab6b00f2-25a4-480f-8e62-9dea0ed92b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengendali Teknis'])[1]/following::span[5]</value>
+      <webElementGuid>19a0aa1b-4444-4a3e-aef0-218b4fa8dcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::span[8]</value>
+      <webElementGuid>cf9673ca-e55a-4e85-b7ba-34f2e1b9b0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketua Tim'])[1]/preceding::span[3]</value>
+      <webElementGuid>5dcdb6ca-4d85-4739-b4a7-c2a1f7dc12eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Ketua Tim'])[2]/preceding::span[4]</value>
+      <webElementGuid>7f84f981-dbf5-4010-9c98-ac4db623a47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]/div/span/span/span/span/span</value>
+      <webElementGuid>c68fbecc-70f8-4bbf-97fc-284974e5536d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama Pengendali Teknis' or . = 'Nama Pengendali Teknis')]</value>
+      <webElementGuid>81b616bd-ccdf-4d3d-bb91-a996e0a6212e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih Obrik Pemeriksaan</name>
+   <tag></tag>
+   <elementGuidId>94be2267-2211-4869-b482-4beb3b5afcb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-tblsurattugas-idunitkerja-container']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tblsurattugas-idunitkerja-container > span.select2-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>37a158df-cede-46ae-b250-06371a7a1f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>040be942-cb7f-4cf2-af20-dd8066fe36d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Obrik Pemeriksaan</value>
+      <webElementGuid>9e5116a2-0686-4d88-b143-996e3bfdc042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tblsurattugas-idunitkerja-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>b22a25fa-ab04-405e-82d2-d2ff5d322adf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-tblsurattugas-idunitkerja-container']/span</value>
+      <webElementGuid>e9ba87f7-5e63-443f-8cd6-a8ceae6d800f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Pusat/Wilayah'])[1]/following::span[5]</value>
+      <webElementGuid>b2514208-d935-4719-9714-fb14d828736e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Penugasan'])[2]/following::span[7]</value>
+      <webElementGuid>c689082a-53b2-405f-8937-b23d6aeba35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Petunjuk Pembuatan Tim Audit!'])[1]/preceding::span[4]</value>
+      <webElementGuid>1209b03f-b5d7-4971-9c79-7d1b71226931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span/span/span/span/span</value>
+      <webElementGuid>263745fa-6b04-4e19-b1da-20d814180e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih Obrik Pemeriksaan' or . = 'Pilih Obrik Pemeriksaan')]</value>
+      <webElementGuid>be3c80b2-ce20-4f12-830b-7071e65feb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

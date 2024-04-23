@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Nama dan Jabatan Peran_add-anggota btn btn-success btn-xs</name>
+   <tag></tag>
+   <elementGuidId>9fb2495a-2afe-431f-ae5b-6fbb6965beee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-anggota.btn.btn-success.btn-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08ee58c2-e0a9-4113-8826-388d340fe009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>19143ca4-6791-459a-b53a-41dbbb5f2a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-anggota btn btn-success btn-xs</value>
+      <webElementGuid>5ba9e51d-c041-4932-940c-1aa5d8e1026d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;dynamicform_anggota&quot;]/table[@class=&quot;table table-bordered table-striped&quot;]/thead[1]/tr[1]/th[@class=&quot;text-center&quot;]/button[@class=&quot;add-anggota btn btn-success btn-xs&quot;]</value>
+      <webElementGuid>20386f98-8519-49c0-b16e-26954e443c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>d46b95ae-c85f-48d0-a80d-1d1beae75ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div[2]/div[6]/div[2]/div/table/thead/tr/th[2]/button</value>
+      <webElementGuid>6a91fde7-137b-4cb2-918b-af73e0e39f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama dan Jabatan Peran'])[1]/following::button[1]</value>
+      <webElementGuid>884a40d4-8b3e-442c-bb76-d3b166402fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[7]/preceding::button[1]</value>
+      <webElementGuid>c6cfaf75-c9c3-4936-8b57-f42b505d27d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/button</value>
+      <webElementGuid>2c8ccf1a-c89d-42d8-91c0-bee20ae7b25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>9c1cc16f-8842-426e-8408-d60fb1d97bbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

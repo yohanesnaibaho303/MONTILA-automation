@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Aditya Cahya Nugraha - (NPP 07943) -                            (Jabatan Asisten Deputi PPP)</name>
+   <tag></tag>
+   <elementGuidId>957c0c02-3217-448e-9e1f-0ff005b09e81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'option' and @aria-selected = 'false' and (text() = 'Aditya Cahya Nugraha - (NPP: 07943) - 
+									                        	   (Jabatan: Asisten Deputi PPP)' or . = 'Aditya Cahya Nugraha - (NPP: 07943) - 
+									                        	   (Jabatan: Asisten Deputi PPP)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>96e7658a-6a52-4d95-bdc4-06e06936ddad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>60738187-51a0-4575-8820-e00854506b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943</value>
+      <webElementGuid>8fa7d896-6298-4b61-8640-29606fe6fe3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>efab3e9f-04d2-4f52-a45d-8e267395e088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b4807633-7b9e-4c74-a39b-2fafe7422436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943</value>
+      <webElementGuid>c2700ca5-7b7c-4aeb-8f97-060fd31e4533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aditya Cahya Nugraha - (NPP: 07943) - 
+									                        	   (Jabatan: Asisten Deputi PPP)</value>
+      <webElementGuid>2acf20b9-ac50-46c2-b034-dea687ec8fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943&quot;)</value>
+      <webElementGuid>d4f7a7e8-5cda-4354-abff-7eba879aa1be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943']</value>
+      <webElementGuid>d5b5451f-d619-4008-9cb8-b2b90d4501cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-tbltimauditpejabat-idauditorketuatim-results']/li[2]</value>
+      <webElementGuid>5d14e880-43a6-4976-b478-ed1f9bc38777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[2]</value>
+      <webElementGuid>a164a1b2-7c4d-4d7d-a81e-62d1171b72ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[2]</value>
+      <webElementGuid>ff917263-360b-4d42-b9dd-ee2e523e3cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-tbltimauditpejabat-idauditorketuatim-result-m5ku-07943' and (text() = 'Aditya Cahya Nugraha - (NPP: 07943) - 
+									                        	   (Jabatan: Asisten Deputi PPP)' or . = 'Aditya Cahya Nugraha - (NPP: 07943) - 
+									                        	   (Jabatan: Asisten Deputi PPP)')]</value>
+      <webElementGuid>45280bba-7add-4df8-9deb-1fc7f4b64c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
