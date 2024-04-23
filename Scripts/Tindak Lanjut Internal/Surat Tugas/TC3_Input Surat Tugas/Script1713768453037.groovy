@@ -81,3 +81,5 @@ not_run: WebUI.click(findTestObject('Object Repository/Input Surat Tugas/li_Indr
 
 WebUI.click(findTestObject('Input Surat Tugas/button_Simpan'))
 
+WebUI.acceptAlert()
+

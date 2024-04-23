@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload ST by ID Icon</name>
+   <tag></tag>
+   <elementGuidId>fe08e8ab-16d9-455f-b7f2-74b602ff0de5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-cloud-upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@title='Upload Surat Tugas'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8fdfcec-ea45-4d63-bfcf-ee4958515eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-cloud-upload</value>
+      <webElementGuid>800f7d7e-c25d-4b49-a6dc-49dcf35479bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w1-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w1&quot;]/td[@class=&quot;w1&quot;]/a[@class=&quot;btn btn-sm btn-primary&quot;]/span[@class=&quot;glyphicon glyphicon-cloud-upload&quot;]</value>
+      <webElementGuid>f7bb6ce6-d6f6-42a8-8405-80d83f5993cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w1-container']/table/tbody/tr/td[7]/a/span</value>
+      <webElementGuid>4c08e61e-ed70-4c4f-a09c-006f14b8a8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a/span</value>
+      <webElementGuid>0d1bc2cf-d0e1-42d6-bd55-35c41424f6b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

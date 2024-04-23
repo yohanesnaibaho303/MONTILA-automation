@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Navigation/to TLI - Surat Tugas - Cari Surat Tugas'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/input_Pencarian Surat Tugas_FormCariSuratTu_178df0'))
+
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/span_2024'))
+
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/button_Cari'))
+
