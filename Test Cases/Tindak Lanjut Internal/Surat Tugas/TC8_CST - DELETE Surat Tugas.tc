@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_CST - DELETE Surat Tugas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5e936d0-afe5-4ee4-bb3f-2cc5ad5a7a02</testCaseGuid>
+</TestCaseEntity>

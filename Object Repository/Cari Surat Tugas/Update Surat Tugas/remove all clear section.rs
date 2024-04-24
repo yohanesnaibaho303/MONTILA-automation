@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>remove all clear section</name>
+   <tag></tag>
+   <elementGuidId>47688568-f297-4205-b69d-74640d914606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-tbltimauditpejabat-idauditorpengendaliteknis-container > span.select2-selection__clear</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-tbltimauditpejabat-idauditorpengendaliteknis-container']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64da3994-8da0-4491-94dd-f0b57a478b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__clear</value>
+      <webElementGuid>f5da28be-5479-4f79-a921-508df2f0d3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove all items</value>
+      <webElementGuid>cbe0481b-e902-4bfc-897b-b05b97408acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>9428da2e-d573-4f56-99a3-72ceefe7f718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>e4603c52-c7b8-44f0-b9c4-99d58d83649c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-tbltimauditpejabat-idauditorpengendaliteknis-container&quot;)/span[@class=&quot;select2-selection__clear&quot;]</value>
+      <webElementGuid>366bceee-e49c-4058-8e2b-00193e5ca76f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-tbltimauditpejabat-idauditorpengendaliteknis-container']/span</value>
+      <webElementGuid>64380dc3-0822-4ab9-ad28-d94ecfad76b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengendali Teknis'])[1]/following::span[5]</value>
+      <webElementGuid>48ea7938-ec71-4305-b415-8c1760d6f093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[6]/following::span[8]</value>
+      <webElementGuid>d4289d42-2ed0-4956-9ea7-723d41b0a05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketua Tim'])[1]/preceding::span[3]</value>
+      <webElementGuid>ca489b64-7fcf-4a24-8b69-c234879b78dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[8]/preceding::span[4]</value>
+      <webElementGuid>5c7660b3-cb3d-4e9d-a191-f42cd5f36d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]/div/span/span/span/span/span</value>
+      <webElementGuid>5dc4f714-8d8d-4ced-b172-818bf10aa2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Remove all items' and (text() = '×' or . = '×')]</value>
+      <webElementGuid>5c38cfde-c968-4e2d-930a-7b66ce07b490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

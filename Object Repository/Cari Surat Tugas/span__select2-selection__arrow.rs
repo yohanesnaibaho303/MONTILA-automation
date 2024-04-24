@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>9b9df6ae-ffe2-42ce-93cc-3e880c1f3c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--krajee.select2-container--below.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dynamic-form']/div/div[2]/div[5]/div[2]/div/div/div/span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1041c8e3-cb12-4d8c-b347-89c69a95f256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>b8b5fe23-3901-47c1-b361-367cbca50723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>badf408f-3699-4dd6-80df-9cab97cfc713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;form-group field-tbltimauditpejabat-idauditorpenanggungjawab required&quot;]/span[@class=&quot;select2 select2-container select2-container--krajee select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>37d15ed5-583d-4b85-bbb9-276e81f65cfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div[2]/div[5]/div[2]/div/div/div/span/span/span/span[2]</value>
+      <webElementGuid>08e49c27-eded-47a1-a430-d3fc1e3f40dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::span[1]</value>
+      <webElementGuid>e1e78877-1b98-467e-ae9f-caad0b8355e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanggung Jawab'])[1]/following::span[6]</value>
+      <webElementGuid>02b6136a-9c49-442d-8b2d-356a5750dc29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengendali Mutu'])[1]/preceding::span[2]</value>
+      <webElementGuid>cef80ec9-3539-487e-9530-f69976683a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[6]/preceding::span[3]</value>
+      <webElementGuid>a275acdd-f6d4-4191-aab4-47429629f6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/span/span/span/span[2]</value>
+      <webElementGuid>e324f091-b6a5-4e7e-9c04-a64658fe9244</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
