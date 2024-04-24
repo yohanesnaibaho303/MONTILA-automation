@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca file_btn btn-sm btn-primary</name>
+   <tag></tag>
+   <elementGuidId>511eeed5-bdf7-444e-b8fd-a1a8baa6436c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0-container']/table/tbody/tr/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > a.btn.btn-sm.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7381466d-609b-4839-82fb-bfa4afdc36f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>1218bdee-0b5d-431c-be9a-646c622c6a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/site/bacafile?path=N0xwbkpyRkM3MG9NS0NxK3VmTlp4MFNNYjNDVWhYVGRFYmR2R01qSUJtU3VXVUUvWDBnUXBQOVNldzV1ZHBDSlAzaWlLc2hhSzN3L1ptbDNlWDRBVm5ISWU4K3VITjdmb1crSGlwSmlDSVFybVh3S3RaTHZ4M3V0VVVXeDlEcTZhdVFTZFBuT2h4cnJtYlBmRENTRmd3PT0%3D</value>
+      <webElementGuid>ad313bb8-c19a-4f32-a9db-aa5ebac06368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>821ba7c1-023f-40a8-ae4d-ecb0bdf45f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w0&quot;]/td[4]/a[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>f7582509-34ac-4764-90ab-8e66deba4619</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0-container']/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>dacf1f87-fab7-4775-a818-e399047cad57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca file'])[1]/following::a[1]</value>
+      <webElementGuid>346d6fef-7cb2-4d37-ae97-864f7f74de4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Upload'])[1]/following::a[1]</value>
+      <webElementGuid>d602ee64-c7e6-415a-ac2e-530ed5c3a623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Temuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7b480a8-01af-462b-bad9-45183bbabd44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permasalahan Rekon tambah N+1 atas peralihan peserta non aktif menjadi PBPU'])[2]/preceding::a[1]</value>
+      <webElementGuid>e733f423-791c-4713-8af1-b7015a524a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/site/bacafile?path=N0xwbkpyRkM3MG9NS0NxK3VmTlp4MFNNYjNDVWhYVGRFYmR2R01qSUJtU3VXVUUvWDBnUXBQOVNldzV1ZHBDSlAzaWlLc2hhSzN3L1ptbDNlWDRBVm5ISWU4K3VITjdmb1crSGlwSmlDSVFybVh3S3RaTHZ4M3V0VVVXeDlEcTZhdVFTZFBuT2h4cnJtYlBmRENTRmd3PT0%3D')]</value>
+      <webElementGuid>9f08f224-f2c1-43b0-be74-f9e58266db03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>7379beeb-bcd4-4492-8618-1a03d12d3953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/site/bacafile?path=N0xwbkpyRkM3MG9NS0NxK3VmTlp4MFNNYjNDVWhYVGRFYmR2R01qSUJtU3VXVUUvWDBnUXBQOVNldzV1ZHBDSlAzaWlLc2hhSzN3L1ptbDNlWDRBVm5ISWU4K3VITjdmb1crSGlwSmlDSVFybVh3S3RaTHZ4M3V0VVVXeDlEcTZhdVFTZFBuT2h4cnJtYlBmRENTRmd3PT0%3D']</value>
+      <webElementGuid>a30622d0-6363-4add-9070-da457362dd71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

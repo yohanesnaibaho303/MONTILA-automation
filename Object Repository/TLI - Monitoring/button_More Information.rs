@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Information</name>
+   <tag></tag>
+   <elementGuidId>a339fd94-2374-432c-85e4-fa76f1f7dd07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#errorShowMore</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='errorShowMore']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a91e821b-821e-43ab-925b-0677f8d51bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorShowMore</value>
+      <webElementGuid>1d38c32c-3005-4f23-b12c-69a832fd94c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-l10n-id</name>
+      <type>Main</type>
+      <value>error_more_info</value>
+      <webElementGuid>7ae518bf-1f0e-4fd5-9743-a1531c806a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+           More Information
+         </value>
+      <webElementGuid>fcbd0a7c-05e9-45f7-b101-4c39da613335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;errorShowMore&quot;)</value>
+      <webElementGuid>a9d0320b-8116-4ac1-b9fa-3ef1b2b9257b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TLI - Monitoring/iframe_Referensi Peraturan_pdfjs-w0</value>
+      <webElementGuid>35adaf0e-f35b-4590-a31c-51b4d9033a28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='errorShowMore']</value>
+      <webElementGuid>cd4917d1-57e6-41e9-b1a3-fb5c2370eadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='errorMessageLeft']/button</value>
+      <webElementGuid>b606385b-42cf-46d3-b9dd-0096ae638e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Missing PDF file.'])[1]/following::button[1]</value>
+      <webElementGuid>d2ddc79a-a09d-4fab-9692-3658eaf57129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom In'])[1]/following::button[1]</value>
+      <webElementGuid>8c7e7cf3-f242-4d01-92ca-9100ae275ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Less Information'])[1]/preceding::button[1]</value>
+      <webElementGuid>ac7f599b-0064-4939-abfa-5852e9c342de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[2]</value>
+      <webElementGuid>5a4c4a58-86fc-496e-b458-d5a620bf8cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Information']/parent::*</value>
+      <webElementGuid>97ddc098-e13f-4b32-b4fd-39e856fc79ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>43f85665-c297-4862-ab7d-e324d8dd0cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'errorShowMore' and (text() = '
+           More Information
+         ' or . = '
+           More Information
+         ')]</value>
+      <webElementGuid>8651d5de-272a-42b0-935d-015f3facc192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

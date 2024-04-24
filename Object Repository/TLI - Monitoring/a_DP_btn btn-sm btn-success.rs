@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DP_btn btn-sm btn-success</name>
+   <tag></tag>
+   <elementGuidId>1691fc13-995d-4ec7-ad18-56f936575cf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea6ed8ec-2800-4c02-8173-1571dcc04e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>8eaa13b2-a238-462e-b33c-9ffd7a7edcf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/updateprogrestindaklanjutinternal?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09</value>
+      <webElementGuid>7156efa2-0bfb-41ac-9320-b523909570aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d8391143-fccc-42c9-b749-8cce07f00d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w0&quot;]/td[9]/a[@class=&quot;btn btn-sm btn-success&quot;]</value>
+      <webElementGuid>2574ede8-dcc2-47c8-9885-d101a78b0008</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a</value>
+      <webElementGuid>fbe8be50-2247-49e5-92a0-c663f3e01915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DP'])[3]/following::a[1]</value>
+      <webElementGuid>392a36df-013c-4774-845a-9b851d7ba585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::a[2]</value>
+      <webElementGuid>de82bf55-f05e-4fc1-aec1-748fe8c23821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Kedeputian Bidang Pengawasan Internal.'])[1]/preceding::a[2]</value>
+      <webElementGuid>e5f1f9a4-cb36-48d3-9712-9a5ce2a59cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/updateprogrestindaklanjutinternal?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09')]</value>
+      <webElementGuid>bf2a3be3-42c3-4df9-b634-088c45aed017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>cbabb68a-982e-4e32-a3b0-17bf371a889f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/updateprogrestindaklanjutinternal?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09']</value>
+      <webElementGuid>361c53c8-de9b-42b0-8068-9a69bb9df46e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

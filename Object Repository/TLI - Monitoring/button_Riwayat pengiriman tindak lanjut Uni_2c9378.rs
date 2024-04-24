@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Riwayat pengiriman tindak lanjut Uni_2c9378</name>
+   <tag></tag>
+   <elementGuidId>b1075ff7-1d07-42fe-b4a1-4aabe805e0bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box.box-solid.box-success.collapsed-box > div.box-header.with-border > div.box-tools.pull-right > button.btn.btn-box-tool</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>567d6653-32bb-4512-b773-09c5514f953a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea26adfb-6d08-4b4b-bd8c-5f8cd7960701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-box-tool</value>
+      <webElementGuid>7326fedd-287e-4b23-b1d8-3375d0f4cdd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-widget</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>30755eed-f416-404f-b4cc-ed51db075240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/div[@class=&quot;box box-solid box-success collapsed-box&quot;]/div[@class=&quot;box-header with-border&quot;]/div[@class=&quot;box-tools pull-right&quot;]/button[@class=&quot;btn btn-box-tool&quot;]</value>
+      <webElementGuid>a645ae1d-e3c0-495a-bf1f-020f0b0744f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>86d18eb2-c58e-43d1-bc95-a008e2ddac46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/div/div/button</value>
+      <webElementGuid>8df263c8-579b-42d4-a5d3-a45965d013fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat pengiriman tindak lanjut Unit Kerja'])[1]/following::button[1]</value>
+      <webElementGuid>404c1eeb-69bc-46da-8c6e-d2a0ce748e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/following::button[1]</value>
+      <webElementGuid>b25b4e88-9dd3-46f8-a0aa-252135ffb5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>178290a1-87fe-46d9-b47e-266b87416e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>c3e204a3-e1f9-4c34-a063-c8b2dae10346</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

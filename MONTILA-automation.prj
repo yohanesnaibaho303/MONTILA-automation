@@ -5,7 +5,7 @@
    <tag></tag>
    <UUID>730a088a-184e-48c7-aacb-83bb0bbfe639</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>

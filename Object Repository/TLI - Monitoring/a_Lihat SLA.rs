@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat SLA</name>
+   <tag></tag>
+   <elementGuidId>0c50b375-53ae-4d2a-bf85-c39576531ea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w15-container']/table/tbody/tr/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1785346-b39a-413f-8cf3-202f4444223d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>54395a79-f779-4d31-833a-1b9e7dc7235d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/lihatsla?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09&amp;IdHist=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Type=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09</value>
+      <webElementGuid>777d3357-8760-4c9c-9dd9-e1c35a05d021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>559f8043-aa7c-4cc3-9259-0acaa8fefab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#myModal</value>
+      <webElementGuid>d799f464-a43d-4a64-b4c0-c74177f5278a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat SLA</value>
+      <webElementGuid>71b78d99-9e9b-4d46-b769-0550083bbee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w15-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w15&quot;]/td[5]/a[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>75bb78ab-058a-4590-9afb-ad0f62820d16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w15-container']/table/tbody/tr/td[5]/a</value>
+      <webElementGuid>b37dc15a-bb3d-4658-b94b-20f0f6d826f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat SLA')]</value>
+      <webElementGuid>f0da1ba3-95d1-4cab-a16b-c0d438326d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kedeputian Bidang Manajemen Iuran telah menyampaikan permintaaan data ke Kedeputian Bidang MDI'])[1]/following::a[1]</value>
+      <webElementGuid>c3ba7a75-e9ce-4dd3-af83-638f27ca23ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[1]/following::a[1]</value>
+      <webElementGuid>7648539d-300c-4392-ae80-172efd0c96b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dalam Pemantauan'])[1]/preceding::a[1]</value>
+      <webElementGuid>0374f31d-1589-46d5-8b4e-183189d7222b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dalam Pemantauan'])[2]/preceding::a[1]</value>
+      <webElementGuid>53bd6b83-775b-4e65-a858-871ddc5ed5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat SLA']/parent::*</value>
+      <webElementGuid>1411f41a-a8c3-49cb-8450-a7965ce5ac72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/lihatsla?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09&amp;IdHist=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Type=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09')]</value>
+      <webElementGuid>574c9a42-d856-4cfe-a27c-5fe6ea75930f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>8d636372-c4d4-46d5-8fbe-a9c4c98e1d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/lihatsla?Id=V0FZN25rQStpVGJxMVBMNDhGNjhsZz09&amp;IdHist=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Type=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09' and (text() = 'Lihat SLA' or . = 'Lihat SLA')]</value>
+      <webElementGuid>e8f93916-c492-4d07-aea2-0016b364257b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Rekomendasi</name>
+   <tag></tag>
+   <elementGuidId>f4f0e6ca-e29d-42e4-9a36-80b2bb22ae51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='w12']/li[2]/a/span/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > span.nav-link-text > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>211387f3-2f13-43b3-9ac6-8948879b418a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rekomendasi </value>
+      <webElementGuid>b180bd44-6952-4fde-a563-fb48779632f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w12&quot;)/li[2]/a[1]/span[@class=&quot;nav-link-text&quot;]/b[1]</value>
+      <webElementGuid>c34ddc39-5fcf-47f9-af2a-59dc7b433e93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='w12']/li[2]/a/span/b</value>
+      <webElementGuid>46579339-7b8e-42f3-be5b-89b686583404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permasalahan'])[1]/following::b[1]</value>
+      <webElementGuid>fe5567c5-0315-475b-a46d-c5cc4a9bb351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Tindak Lanjut Investigatif'])[1]/following::b[2]</value>
+      <webElementGuid>170d395b-5233-4901-be0c-fb056d278be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permasalahan'])[2]/preceding::b[1]</value>
+      <webElementGuid>71e679ed-6162-47cf-88b5-67af764072e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permasalahan'])[3]/preceding::b[2]</value>
+      <webElementGuid>0e946978-a453-4ea8-9a0d-a995c46c4300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/b</value>
+      <webElementGuid>b0f6c6e8-6a93-47b3-8d1e-122cf0b3012b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' Rekomendasi ' or . = ' Rekomendasi ')]</value>
+      <webElementGuid>ab8d20cb-ee8e-41b4-a6e4-c42eac8fb500</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

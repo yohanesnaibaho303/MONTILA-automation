@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DP_glyphicon glyphicon-eye-open</name>
+   <tag></tag>
+   <elementGuidId>2f4b1533-f7ff-402a-bbb2-7409aaac9edf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-eye-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1696f8f5-7865-4a68-819b-98b8557d8f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-eye-open</value>
+      <webElementGuid>285d1639-1066-424f-a695-b8a7ee67ea7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w0&quot;]/td[9]/a[@class=&quot;btn btn-sm btn-success&quot;]/span[@class=&quot;glyphicon glyphicon-eye-open&quot;]</value>
+      <webElementGuid>721fdce1-9c08-4391-9a56-d6654f2587bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a/span</value>
+      <webElementGuid>a2d71ab0-3b72-441e-a531-fe428c54d929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a/span</value>
+      <webElementGuid>7e06e37d-eb0b-4f31-9f14-c6e088f610d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
