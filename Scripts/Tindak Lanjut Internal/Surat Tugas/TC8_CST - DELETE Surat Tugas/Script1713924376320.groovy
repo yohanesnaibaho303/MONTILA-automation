@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Navigation/to TLI - Surat Tugas - Cari Surat Tugas'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Delete Surat Tugas/Icon Delete'))
+
+WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Delete Surat Tugas/div_Konfirmasi Apakah anda yakin ingin meng_2f8bb3'))
+
+WebUI.click(findTestObject('Cari Surat Tugas/Delete Surat Tugas/button_Ok'))
+
+WebUI.verifyTextPresent('Surat Tugas berhasil dihapus', false)
+

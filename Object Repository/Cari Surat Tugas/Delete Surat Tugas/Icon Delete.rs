@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon Delete</name>
+   <tag></tag>
+   <elementGuidId>ea850efb-7d34-47fc-9d19-44fbd38ec158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='Hapus'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9be3c23-1861-42ad-8409-c237a7cbeee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3c62631e-32d4-4bdd-a5b1-93b016495b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-danger</value>
+      <webElementGuid>623d2911-21d1-4547-bc5c-48452b2b2f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>f9557554-675e-407e-8e23-3e5fb46d4419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>YThRU2QzV0NlNEhQQUgxSHpNUDRDUT09</value>
+      <webElementGuid>fe8fceb1-2b48-4ea2-9a60-45517ebf9205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hapus Surat Tugas</value>
+      <webElementGuid>e9022730-dcf5-4919-96da-315c4ec12927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-confirm</name>
+      <type>Main</type>
+      <value>&lt;b> Apakah anda yakin ingin menghapus surat tugas ini &lt;/b>, &lt;br> 
+																Setelah menghapus surat tugas, maka semua rekomendasi terkait surat tugas ini akan ikut terhapus, &lt;br> &lt;br>
+															&lt;b> Apakah anda ingin meneruskan? &lt;/b></value>
+      <webElementGuid>b460d20f-1d61-48a4-b85b-3b642c09682b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w1-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w1&quot;]/td[8]/button[@class=&quot;btn btn-sm btn-danger&quot;]</value>
+      <webElementGuid>04165776-40e4-4f9c-b0a3-86cbbc318c4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='Hapus'])[2]</value>
+      <webElementGuid>546be189-1370-4947-86c2-d26c54083c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w1-container']/table/tbody/tr[2]/td[8]/button</value>
+      <webElementGuid>8c5c4c09-3567-4c18-9adc-d8551bad177e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Andi Dharmawan Pribadi'])[2]/following::button[1]</value>
+      <webElementGuid>95511eb7-ecf6-4eac-90ab-f757f7f0bc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yusuf Sundut Harahap'])[2]/following::button[1]</value>
+      <webElementGuid>17eb0975-d411-4fbf-9b2e-9bc9a0ca3392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeriksaan Khusus/Investigatif'])[3]/preceding::button[1]</value>
+      <webElementGuid>940f8e6a-2c48-4bf2-bf0d-21988e3ec338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepbid SPI'])[3]/preceding::button[1]</value>
+      <webElementGuid>e69c9b02-8fef-43c1-9b25-987cb90d2a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[8]/button</value>
+      <webElementGuid>3b5e4ee3-3263-4ca9-ad44-6a599ebbf9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'Hapus' and @title = 'Hapus Surat Tugas']</value>
+      <webElementGuid>d5e70970-523d-495a-9965-3bbe0526529a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

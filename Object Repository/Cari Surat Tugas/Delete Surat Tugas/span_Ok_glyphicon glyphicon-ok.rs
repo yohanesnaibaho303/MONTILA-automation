@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ok_glyphicon glyphicon-ok</name>
+   <tag></tag>
+   <elementGuidId>babc7384-b0d0-4321-bbae-64089d5d1319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-ok</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='53f75557-56ab-4a8a-b39b-86788059e8e8']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4c914e1-9e38-4968-9ee7-c97a80d1cc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-ok</value>
+      <webElementGuid>114d31e1-be06-4697-b95e-6933c651f4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;53f75557-56ab-4a8a-b39b-86788059e8e8&quot;)/span[@class=&quot;glyphicon glyphicon-ok&quot;]</value>
+      <webElementGuid>d811bd86-cbfd-4842-b386-99414c7d43b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='53f75557-56ab-4a8a-b39b-86788059e8e8']/span</value>
+      <webElementGuid>57e5c37d-1ec2-4078-b2af-42fcf895086e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>8b6d067a-b875-4b4e-9390-32664f25dffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
