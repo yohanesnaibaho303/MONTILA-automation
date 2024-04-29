@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Cari Surat Tugas/Update Surat Tugas/button_Update'))
 
 WebUI.acceptAlert()
 
+WebUI.closeBrowser()
+

@@ -6,15 +6,15 @@
    <elementGuidId>2f4b1533-f7ff-402a-bbb2-7409aaac9edf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.glyphicon.glyphicon-eye-open</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0-container']/table/tbody/tr/td[9]/a/span</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>

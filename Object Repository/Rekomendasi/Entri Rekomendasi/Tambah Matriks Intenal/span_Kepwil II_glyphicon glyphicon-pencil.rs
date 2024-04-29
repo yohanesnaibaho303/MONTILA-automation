@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kepwil II_glyphicon glyphicon-pencil</name>
+   <tag></tag>
+   <elementGuidId>def3fc93-7f5a-4e8e-abd3-19489ee887c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-pencil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0']/table/tbody/tr[3]/td[5]/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;✏&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0c7f2a7-7d13-4b77-86ac-904cf63cf66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-pencil</value>
+      <webElementGuid>da640e18-03b6-49d5-b09e-f83085178b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[3]/td[5]/a[@class=&quot;btn btn-sm btn-warning&quot;]/span[@class=&quot;glyphicon glyphicon-pencil&quot;]</value>
+      <webElementGuid>00d3a54a-3f24-4135-807a-a8eb20b4b196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0']/table/tbody/tr[3]/td[5]/a[2]/span</value>
+      <webElementGuid>ab2ee85f-1eb7-45af-a362-319358df6806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>0ca2f272-5984-488e-a435-31dcc6c96445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

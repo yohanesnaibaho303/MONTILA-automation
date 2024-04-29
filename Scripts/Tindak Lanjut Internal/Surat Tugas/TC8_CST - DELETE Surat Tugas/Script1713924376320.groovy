@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Cari Surat Tugas/Delete Surat Tugas/button_Ok'))
 
 WebUI.verifyTextPresent('Surat Tugas berhasil dihapus', false)
 
+WebUI.closeBrowser()
+

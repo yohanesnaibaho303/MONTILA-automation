@@ -37,3 +37,5 @@ WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumenta
 
 WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf(1)')
 
+WebUI.closeBrowser()
+

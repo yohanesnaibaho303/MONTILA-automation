@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/span_2024'))
 
 WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/button_Cari'))
 
+WebUI.closeBrowser()
+

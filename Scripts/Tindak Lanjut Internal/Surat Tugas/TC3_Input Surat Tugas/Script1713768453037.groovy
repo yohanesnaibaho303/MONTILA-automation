@@ -83,3 +83,5 @@ WebUI.click(findTestObject('Input Surat Tugas/button_Simpan'))
 
 WebUI.acceptAlert()
 
+WebUI.closeBrowser()
+

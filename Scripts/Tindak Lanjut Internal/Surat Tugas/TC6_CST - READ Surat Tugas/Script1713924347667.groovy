@@ -27,3 +27,5 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Cari Surat Tugas/Lihat Surat Tugas/a_Tutup'))
 
+WebUI.closeBrowser()
+
