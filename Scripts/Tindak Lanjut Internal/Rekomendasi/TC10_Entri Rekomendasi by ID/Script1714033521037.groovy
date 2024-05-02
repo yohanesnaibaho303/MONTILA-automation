@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/input_Pilih Obyek Pemeriksaan_FormCariMatri_0be252'))
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/span_2024'))

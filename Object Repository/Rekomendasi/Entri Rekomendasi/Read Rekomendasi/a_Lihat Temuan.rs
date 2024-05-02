@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Temuan</name>
+   <tag></tag>
+   <elementGuidId>bd2e8387-90bb-46b2-8456-decd5332c588</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w4-container']/table/tbody/tr/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lihat Temuan&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9f733bd8-4f0a-48dc-b5f2-9cd328c58cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>48d40c63-7152-4729-b453-6c2c0b47a6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/lihatpermasalahaninternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09</value>
+      <webElementGuid>589ab3e7-d972-4baa-884a-4339ea53023c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>c757265a-5dfc-49d9-985a-d6dfe6a398a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#myModal</value>
+      <webElementGuid>fcfe04ad-55fd-4c41-af7f-d995f2da6fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Temuan</value>
+      <webElementGuid>67f9e156-9a3a-4519-b857-f3275ce29c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w4-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w4&quot;]/td[@class=&quot;skip-export kv-align-center kv-align-top w4&quot;]/a[@class=&quot;btn btn-sm btn-success&quot;]</value>
+      <webElementGuid>0f393e6b-4c4b-45de-be1e-d2d2f30de899</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w4-container']/table/tbody/tr/td[5]/a</value>
+      <webElementGuid>1328d9ee-0e1b-4de4-8457-d8df19754ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Temuan')]</value>
+      <webElementGuid>c3bd0c6c-dcf3-4663-a474-01ef5b3ebb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Nominal Faskes'])[1]/following::a[1]</value>
+      <webElementGuid>1b3b426e-fca4-4cb2-bf1e-96ad5ce6305a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perencanaan Strategis'])[1]/following::a[1]</value>
+      <webElementGuid>cc38192a-f42f-4d40-9a3c-ae0bcd4e492b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Rekomendasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef4697f8-8d6c-44ad-83d1-f24591b48864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[2]</value>
+      <webElementGuid>7907719f-80a8-4087-9937-3962ee38de82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Temuan']/parent::*</value>
+      <webElementGuid>e6e03d59-c4b6-422d-8973-48ebe34c3a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/lihatpermasalahaninternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09')]</value>
+      <webElementGuid>607fb3d4-14d0-4c45-8953-8343d4204b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>d36d31df-1a24-4dc9-9e49-9c48c7d14397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/lihatpermasalahaninternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09' and (text() = 'Lihat Temuan' or . = 'Lihat Temuan')]</value>
+      <webElementGuid>ecf1b484-e37e-4ac5-9623-97ed258fae4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

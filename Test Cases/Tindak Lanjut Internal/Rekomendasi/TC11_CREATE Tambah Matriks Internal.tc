@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC11_Tambah Matriks Internal</name>
+   <name>TC11_CREATE Tambah Matriks Internal</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e898cade-45a5-418b-9936-222cebc25226</testCaseGuid>

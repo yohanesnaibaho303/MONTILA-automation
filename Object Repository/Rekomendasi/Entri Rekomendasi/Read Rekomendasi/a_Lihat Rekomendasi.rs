@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Rekomendasi</name>
+   <tag></tag>
+   <elementGuidId>fc46a55c-660e-47d9-ab61-24a5734d26b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w4-container']/table/tbody/tr/td[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lihat Rekomendasi&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd85978a-6098-48b0-a681-580c17fe0e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>02212a84-bac5-48b4-aa01-47df20e8129f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/lihatrekomendasiinternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09</value>
+      <webElementGuid>646f1d35-6809-45ac-a718-4446243bedef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>aabcbe98-cd8a-4509-a799-5e095868dc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#myModal</value>
+      <webElementGuid>44c0df2d-ea0e-43b1-bd4f-9bcc19216d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Rekomendasi</value>
+      <webElementGuid>fab7f9ec-d23f-40dd-984d-2e8b91924f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w4-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w4&quot;]/td[@class=&quot;skip-export kv-align-center kv-align-top w4&quot;]/a[@class=&quot;btn btn-sm btn-success&quot;]</value>
+      <webElementGuid>25174028-6581-48c4-b37a-0dca124be1b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w4-container']/table/tbody/tr/td[5]/a[2]</value>
+      <webElementGuid>f45e346b-1d54-421d-a367-337bde01f4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Rekomendasi')]</value>
+      <webElementGuid>cbc46d9f-2d16-4b64-8bdc-9f8d711ed886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Temuan'])[1]/following::a[1]</value>
+      <webElementGuid>8af7ed09-e311-436b-b617-aa04f140a57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Nominal Faskes'])[1]/following::a[2]</value>
+      <webElementGuid>eab49c47-7bd8-4cf0-8684-d3c66bd80ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[1]</value>
+      <webElementGuid>535582ad-b069-4ac5-b95d-467d92e2c0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::a[1]</value>
+      <webElementGuid>70b7c8d8-1e33-4991-ad21-3a79f62f1cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Rekomendasi']/parent::*</value>
+      <webElementGuid>4dbd93bf-d6d2-4b9d-8651-6e794b9890eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/lihatrekomendasiinternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09')]</value>
+      <webElementGuid>d6478004-9eb5-4072-924d-9f38a0883b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a[2]</value>
+      <webElementGuid>cb2d0d78-8505-449f-9daa-0255aa2d341d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/lihatrekomendasiinternalgrid?IdPermasalahan=M2tSOUNtTVhnNk9aSnYwVlNsSzRNdz09' and (text() = 'Lihat Rekomendasi' or . = 'Lihat Rekomendasi')]</value>
+      <webElementGuid>7c08ee12-e6da-4b73-a14b-6c7fd4166300</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

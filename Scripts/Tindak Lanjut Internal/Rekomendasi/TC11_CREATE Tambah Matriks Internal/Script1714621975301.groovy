@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1') : 'TWJ6FF3V6ZnhxRAbxL11pQ=='], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Kepwil II_btn btn-sm btn-warning'))
@@ -46,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/li_Primer'))
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/textarea_Judul Permasalahan_TblPermasalahan_e2f809'), 
-    judul1)
+    judul2)
 
 not_run: WebUI.comment('test source')
 
