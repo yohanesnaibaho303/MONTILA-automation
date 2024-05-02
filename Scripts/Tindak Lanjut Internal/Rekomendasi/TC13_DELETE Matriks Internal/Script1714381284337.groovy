@@ -21,3 +21,17 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1'
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Kepwil II_btn btn-sm btn-warning'))
+
+WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus'))
+
+WebUI.verifyTextPresent('Konfirmasi Penghapusan', false)
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus_1'))
+
+WebUI.verifyTextNotPresent('Permasalah perihal security defense', false)
+

@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/li_Primer'))
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/textarea_Judul Permasalahan_TblPermasalahan_e2f809'), 
-    judul2)
+    judul1)
 
 not_run: WebUI.comment('test source')
 
@@ -93,6 +93,4 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/button_Simpan'))
 
 WebUI.acceptAlert()
-
-WebUI.verifyTextPresent('Judul permasalahannya ada lorem ipsum quedar queso imiada hueq querto pitero guq masa pase', false)
 

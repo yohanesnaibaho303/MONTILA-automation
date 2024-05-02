@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hapus_1</name>
+   <tag></tag>
+   <elementGuidId>3fe6fa8b-4ef6-4eb5-bf21-d9a403a0299e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dynamic-form']/b/b/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4 > a.btn.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#myModal >> internal:role=link[name=&quot;Hapus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd145807-628b-4f49-815f-ee410d138b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger </value>
+      <webElementGuid>4610ff67-657a-4699-9f13-d8f63d38792a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/deletepermasalahaninternalgrid?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09</value>
+      <webElementGuid>347514ea-08be-4af2-a473-86f599ce5245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>4752da6c-f37a-4821-8608-c5f592ed05a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@id=&quot;dynamic-form&quot;]/b[1]/b[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/a[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>db44ba3c-85c3-4342-9209-3ba28dd948fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/b/b/div/div[2]/a</value>
+      <webElementGuid>24328334-cdf1-49e1-ae07-b989aa82c6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Hapus')])[4]</value>
+      <webElementGuid>d226d145-24dc-4782-a5ea-48e7ac87d9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penghapusan juga akan menghilangkan tindak lanjut yang telah diupload oleh unit kerja'])[1]/following::a[1]</value>
+      <webElementGuid>3a6a3eac-0231-4af0-af26-0f2edc059ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penghapusan Permasalahan akan menghapus juga rekomendasi yang terlah dibuat'])[1]/following::a[1]</value>
+      <webElementGuid>bf452015-947f-444d-b5c8-0c99906df939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::a[2]</value>
+      <webElementGuid>cd9b0526-c58e-4a67-9331-72e5753e2f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Kedeputian Bidang Pengawasan Internal.'])[1]/preceding::a[2]</value>
+      <webElementGuid>239e6dbe-52a6-489d-822e-3ee414ee1f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/deletepermasalahaninternalgrid?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09')]</value>
+      <webElementGuid>125f86f5-939d-4d61-921c-d92b5ec559ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>a5b35f5d-db53-4d07-bc2c-c1c21f274c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/deletepermasalahaninternalgrid?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09' and (text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>7f96aae4-4ce6-48e3-b5c7-4dfe7812dc93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
