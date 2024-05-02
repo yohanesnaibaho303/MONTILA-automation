@@ -23,10 +23,6 @@ WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomen
 
 WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Kepwil II_btn btn-sm btn-warning'))
-
-WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
-
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/button_Tambah matriks internal'))
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/button_Ok'))
@@ -50,7 +46,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/li_Primer'))
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/textarea_Judul Permasalahan_TblPermasalahan_e2f809'), 
-    judul1)
+    judul2)
 
 not_run: WebUI.comment('test source')
 

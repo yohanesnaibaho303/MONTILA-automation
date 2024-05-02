@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Permasalahan perihal keamanan website</name>
+   <tag></tag>
+   <elementGuidId>d67125e4-f89c-4ed3-8d01-fbeec0835fdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='tblpermasalahan-judulpermasalahan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tblpermasalahan-judulpermasalahan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;(Minimal 20 Karakter, maksimal 2000 karakter)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>97ce42e1-e0d7-43af-89a2-0c8930664ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tblpermasalahan-judulpermasalahan</value>
+      <webElementGuid>1a5fa221-9d48-4052-b548-78a8c03c63b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>94246533-477c-436b-8f21-3c4cba82aa17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TblPermasalahan[JudulPermasalahan]</value>
+      <webElementGuid>5e7b865d-9022-4122-8d64-3c87b7326ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ffd5982f-c1f7-4738-86f1-196f181c09fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>(Minimal 20 Karakter, maksimal 2000 karakter)</value>
+      <webElementGuid>d70479a2-e230-4d5e-a0fd-9586de34c957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6851f024-da67-4c55-b764-51c4565670cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permasalahan perihal keamanan website
+</value>
+      <webElementGuid>c616ddd3-099e-48cf-ab91-ed778fee73ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblpermasalahan-judulpermasalahan&quot;)</value>
+      <webElementGuid>8b0ed65c-2f32-4ebb-90a4-1268b4381e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='tblpermasalahan-judulpermasalahan']</value>
+      <webElementGuid>16359fed-28b8-440b-94e5-d066250675ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div[2]/div[4]/div/div/div[2]/div[4]/div/div/textarea</value>
+      <webElementGuid>24ec9d69-8f06-4daf-a740-7669690d60ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Permasalahan'])[1]/following::textarea[1]</value>
+      <webElementGuid>58791cf3-8be7-4a28-b10b-64fb0ca6633b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::textarea[1]</value>
+      <webElementGuid>a2751954-1784-41e7-afb5-6655c9a4daa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan permasalahan/kondisi'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>06a4ad03-9a4f-4fbe-99e2-9c859dd40969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permasalahan perihal keamanan website']/parent::*</value>
+      <webElementGuid>86b3b108-3568-4624-8848-2207e17e3f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>d13c4d64-c927-46f7-8744-1cd643f931e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'tblpermasalahan-judulpermasalahan' and @name = 'TblPermasalahan[JudulPermasalahan]' and @placeholder = '(Minimal 20 Karakter, maksimal 2000 karakter)' and (text() = 'Permasalahan perihal keamanan website
+' or . = 'Permasalahan perihal keamanan website
+')]</value>
+      <webElementGuid>4ef3eb3d-4240-4b9d-9c93-b49a33ff60f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

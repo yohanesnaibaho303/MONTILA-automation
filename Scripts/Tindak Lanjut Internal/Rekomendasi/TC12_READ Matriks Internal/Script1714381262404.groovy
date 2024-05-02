@@ -23,10 +23,6 @@ WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomen
 
 WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Kepwil II_btn btn-sm btn-warning'))
-
-WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
-
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Lihat Temuan'))
 
 WebUI.verifyTextPresent('Lihat Permasalahan Internal', false)

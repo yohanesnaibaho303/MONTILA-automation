@@ -23,3 +23,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/span
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/button_Cari'))
 
+WebUI.click(findTestObject('Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Kepwil II_btn btn-sm btn-warning'))
+
+WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
+
