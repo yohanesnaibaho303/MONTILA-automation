@@ -17,6 +17,12 @@
       <value></value>
       <variableId>5e572bcb-35e8-4b72-9aec-876d6fd87166</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8053100a-6bc8-4d59-94ea-79e39f780623</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Permasalahan perihal keamanan website\r\n'</defaultValue>
       <description></description>
@@ -30,5 +36,12 @@
       <id>5e572bcb-35e8-4b72-9aec-876d6fd87166</id>
       <masked>false</masked>
       <name>judul2</name>
+   </variable>
+   <variable>
+      <defaultValue>'098/i.i/12'</defaultValue>
+      <description></description>
+      <id>8053100a-6bc8-4d59-94ea-79e39f780623</id>
+      <masked>false</masked>
+      <name>noPermasalahanNegatif</name>
    </variable>
 </TestCaseEntity>

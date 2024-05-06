@@ -31,3 +31,7 @@ WebUI.scrollToElement(findTestObject('Dashboard/Expand Data Dashboard'), 2)
 
 WebUI.click(findTestObject('Dashboard/Expand Data Dashboard'))
 
+WebUI.delay(3)
+
+WebUI.closeBrowser()
+

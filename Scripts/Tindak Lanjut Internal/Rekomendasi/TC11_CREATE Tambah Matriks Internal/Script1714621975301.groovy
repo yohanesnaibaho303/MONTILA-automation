@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/button_Ok'))
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/input_Nomor Permasalahan_TblPermasalahanIdP_cbedc7'), 
-    '123')
+    '098')
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/span_Pilih fungsi yang diaudit'))
 
@@ -47,15 +47,6 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/textarea_Judul Permasalahan_TblPermasalahan_e2f809'), 
     judul2)
-
-not_run: WebUI.comment('test source')
-
-not_run: WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/a_Source'))
-
-not_run: WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/textarea_Remove Format_cke_source cke_reset_28de6e'), 
-    '<p style="">&nbsp;</p>\nlorem ipsum adalah sebuah kata default digunakan banyakdeveloper ataupun orang ingin mengisi sebuah form atau display komponen untuk sementara sebelum kata kata sebenarnya ditampilkan, tujuannya hanya untuk testing saja.\n<div id="katalon" style="top: 285px;">\n<div id="katalon-rec_elementInfoDiv" style="display: block;">/html[1]</div>\n</div>\n')
-
-not_run: WebUI.comment('test source')
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/p'), FailureHandling.STOP_ON_FAILURE)
 
@@ -89,4 +80,10 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tamb
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Tambah Matriks Intenal/button_Simpan'))
 
 WebUI.acceptAlert()
+
+WebUI.delay(5)
+
+WebUI.closeBrowser()
+
+WebUI.comment('Error, tidak dapat menyimpan data jikalau lebih dari satu input / dua row dibagian rekomendasi')
 

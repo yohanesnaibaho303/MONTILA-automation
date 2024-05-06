@@ -6,19 +6,23 @@
    <elementGuidId>8c124e9e-f8b8-4ee1-981b-262c42784954</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='w4-container']/table/tbody/tr[3]/td[4]/a[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@class = 'btn btn-sm btn-danger' and (text() = 'Hapus' or . = 'Hapus')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>internal:role=link[name=&quot;Hapus&quot;i] >> nth=3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Hapus&quot;i] >> nth=1</value>
+         <value>internal:role=link[name=&quot;Hapus&quot;i] >> nth=1&#xd;
+</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,23 +33,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>effbd533-c793-478a-938d-55bee86aa797</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-sm btn-danger</value>
-      <webElementGuid>29b8b7c1-056d-48f5-a494-1e6ceca5507b</webElementGuid>
+      <webElementGuid>29a33cc4-a2d6-4b9a-a8b1-43b3629756c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-danger</value>
+      <webElementGuid>3776f169-a48c-4d4f-8105-cc544ed95487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>/web/sitemontilainternal/konfirmasihapuspermasalahan?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09</value>
-      <webElementGuid>40b98545-5dc3-4e10-a008-08c104a8f8c7</webElementGuid>
+      <webElementGuid>43d31b46-3396-4b0e-ac6c-e2fd0393655e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>7e53633a-f172-425c-8480-7a2d276f29f5</webElementGuid>
+      <webElementGuid>cc168e52-bacb-4a4c-9155-c71835396c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-target</name>
       <type>Main</type>
       <value>#myModal</value>
-      <webElementGuid>205720ba-edde-42af-8e1f-0a74313275bf</webElementGuid>
+      <webElementGuid>144be1d3-c8f0-4e0f-b40e-070c00e38883</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hapus</value>
-      <webElementGuid>1c09135e-e33e-4aca-bc8d-a349ecfb5723</webElementGuid>
+      <webElementGuid>eef09164-e76e-4a48-8696-28f8472e09ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w4-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w4&quot;]/td[@class=&quot;skip-export kv-align-center kv-align-top w4&quot;]/a[@class=&quot;btn btn-sm btn-danger&quot;]</value>
-      <webElementGuid>60a51562-be54-4ab3-8699-e0b9fce8298d</webElementGuid>
+      <webElementGuid>09f67a8c-1739-4988-833c-8d14ca27ed54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='w4-container']/table/tbody/tr[3]/td[4]/a[3]</value>
-      <webElementGuid>42020767-0373-4b4a-bfcc-7383476b57c8</webElementGuid>
+      <webElementGuid>6a5a7ecf-f6fe-4462-ae7c-e8b9c67192e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Hapus')])[3]</value>
-      <webElementGuid>dbb38636-5a7b-4f8a-83b4-00e14974b86a</webElementGuid>
+      <webElementGuid>8f94608a-5630-4c08-a636-ae1b84a4089d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/following::a[1]</value>
-      <webElementGuid>31b84920-6f11-421a-9566-a934a6581741</webElementGuid>
+      <webElementGuid>17d9a919-4831-4c5e-98a6-079dc3b98d82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Rekomendasi'])[3]/following::a[1]</value>
-      <webElementGuid>79e2c278-bc85-49fa-b1f2-e8a277f1e77c</webElementGuid>
+      <webElementGuid>6624ae23-a961-4886-b39e-01e6f54257de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::a[2]</value>
-      <webElementGuid>ad8851d7-5246-4025-ba7b-4979ca14d835</webElementGuid>
+      <webElementGuid>6081e386-a9fd-4a5d-8ea7-da304eab4413</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Kedeputian Bidang Pengawasan Internal.'])[1]/preceding::a[2]</value>
-      <webElementGuid>9d98270a-3051-4805-be54-857944980592</webElementGuid>
+      <webElementGuid>3d791072-9c58-4e6e-8bb0-f8fbf0dbf4ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/sitemontilainternal/konfirmasihapuspermasalahan?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09')]</value>
-      <webElementGuid>7a7ebf2d-90d9-4a51-96cb-c3d128202ed8</webElementGuid>
+      <webElementGuid>bc5e6f29-536a-4d1c-8952-2cdba67c7f41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,14 +145,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[4]/a[3]</value>
-      <webElementGuid>2fc84b2c-a635-4b64-aa84-972f66064c3c</webElementGuid>
+      <webElementGuid>4b538bea-e1fe-431b-801d-6a5dd2beb06b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/sitemontilainternal/konfirmasihapuspermasalahan?IdPermasalahan=M3ZFNXcrdnhHSHBYbGtFTGUwODJ5UT09' and (text() = 'Hapus' or . = 'Hapus')]</value>
-      <webElementGuid>ab61ecd1-658d-48e3-b066-7a676cbe027f</webElementGuid>
+      <value>internal:role=link[name=&quot;Hapus&quot;i] >> nth=3</value>
+      <webElementGuid>3782fa9f-061b-4f77-a619-568242323a2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

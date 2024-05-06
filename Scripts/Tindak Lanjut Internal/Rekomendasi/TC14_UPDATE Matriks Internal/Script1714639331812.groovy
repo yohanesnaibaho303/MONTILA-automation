@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Upda
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Ok'))
 
 WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/textarea_Permasalahan perihal keamanan website'), 
-    'Permasalahan perihal keamanan website updated\n')
+    'test update automation katalon kedua')
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Update'))
 

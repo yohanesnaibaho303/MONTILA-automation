@@ -21,14 +21,14 @@
       <defaultValue>'08176'</defaultValue>
       <description></description>
       <id>c4989b8c-c373-48c9-aa2f-2853acc47444</id>
-      <masked>false</masked>
+      <masked>true</masked>
       <name>user1</name>
    </variable>
    <variable>
       <defaultValue>'TWJ6FF3V6ZnhxRAbxL11pQ=='</defaultValue>
       <description></description>
       <id>1a97911e-b69e-4ecb-bdea-dfa8b50524f6</id>
-      <masked>false</masked>
+      <masked>true</masked>
       <name>pwd1</name>
    </variable>
 </TestCaseEntity>

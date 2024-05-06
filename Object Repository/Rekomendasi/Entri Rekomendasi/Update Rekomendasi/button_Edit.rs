@@ -6,12 +6,11 @@
    <elementGuidId>41569f68-584e-4e85-b3f8-5bab66d12e71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@name='Edit'])[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@name='Edit'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>39906173-0017-4b19-8526-cab5e4ab143a</webElementGuid>
+      <webElementGuid>a14c1bac-8660-4ee2-8dc6-6c78c38459f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>aa92bc1a-ba14-4138-b495-a56adf0bf444</webElementGuid>
+      <webElementGuid>6cc84603-8300-49dc-9b8c-9bd7f5d005fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-sm btn-warning</value>
-      <webElementGuid>cfbc82c2-cdc0-44ea-b7d6-8ba9b154f1f9</webElementGuid>
+      <webElementGuid>6f0e8d09-7a5d-45ef-b81b-e55d3a63e159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>cc9126c6-56d3-4264-987e-27f59a5cf305</webElementGuid>
+      <webElementGuid>e9706ff0-f0a3-45a0-aa49-f656e7879cb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>value</name>
       <type>Main</type>
       <value>ak9BczlHVjZPSVZwYWYvVXhNTjFqUT09</value>
-      <webElementGuid>3c80d2de-c228-4489-a9cd-6905d653b495</webElementGuid>
+      <webElementGuid>58926b77-5e19-48f4-829d-188b3b58fd02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>data-confirm</name>
       <type>Main</type>
       <value>Apakah anda yakin akan merubah matriks internal ini?</value>
-      <webElementGuid>e808df26-2ec6-45f2-a300-c16803a8583c</webElementGuid>
+      <webElementGuid>4f6aeb89-7a9f-4b39-be4a-e9a18a60340a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +76,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>2527dcbc-8e83-44d6-ae1c-a7405ef496df</webElementGuid>
+      <webElementGuid>fa2d210c-91a6-4707-a3a3-8544b3374a9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w4-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w4&quot;]/td[@class=&quot;skip-export kv-align-center kv-align-top w4&quot;]/button[@class=&quot;btn btn-sm btn-warning&quot;]</value>
-      <webElementGuid>c8160ffb-3fc7-4504-91b0-77db4a0bd4c1</webElementGuid>
+      <webElementGuid>1a15f2a1-80e6-4b59-b7d0-e31556845ec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@name='Edit'])[2]</value>
-      <webElementGuid>13d6a4ae-3bb1-4372-be05-b45afc3755b3</webElementGuid>
+      <webElementGuid>fb127e62-633c-429f-9f06-12217dd792d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='w4-container']/table/tbody/tr[2]/td[4]/button</value>
-      <webElementGuid>f780d489-f7ed-417e-97e4-906c2cca3438</webElementGuid>
+      <webElementGuid>1a69d1ac-3d18-4ab9-a165-caa0961dd7a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Rekomendasi'])[2]/following::button[1]</value>
-      <webElementGuid>cfe1276c-8f39-4f48-b784-7b1d96623fcd</webElementGuid>
+      <webElementGuid>00a7092b-f029-4f53-a508-17c9cb2aab74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Temuan'])[2]/following::button[1]</value>
-      <webElementGuid>ba1f8a90-6531-4e71-bf39-d9b1668b7ca3</webElementGuid>
+      <webElementGuid>75ead02c-d855-4925-82a6-d3c3967be432</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[2]/preceding::button[1]</value>
-      <webElementGuid>dfaaa6d1-4687-44ca-ac47-ec354e145883</webElementGuid>
+      <webElementGuid>b8c3a0cb-d5d9-48d1-8dd8-b46822eb66d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::button[2]</value>
-      <webElementGuid>c7055807-8737-4b2a-9c12-2ebcd07c9ac2</webElementGuid>
+      <webElementGuid>1db97285-7f2c-49c0-974b-3d4ef71919d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +140,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[4]/button</value>
-      <webElementGuid>e52b39f4-d256-482c-b75d-a721006a0d5f</webElementGuid>
+      <webElementGuid>a773e8a5-2272-4383-bbc4-37915a11b5ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +148,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'Edit' and (text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>c29c304d-8b97-413d-a95f-c088bd866f9e</webElementGuid>
+      <webElementGuid>e1df8a58-6cc5-402f-8f2a-172768c9f7ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

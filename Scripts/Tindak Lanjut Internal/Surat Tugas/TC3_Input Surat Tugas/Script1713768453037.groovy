@@ -21,9 +21,9 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [:], FailureHandling.STOP_ON_
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Surat Tugas - Input Surat Tugas'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Input Surat Tugas/input_No Surat Tugas_TblSuratTugasNoSuratTugas'), '123/I.I/456')
+WebUI.setText(findTestObject('Object Repository/Input Surat Tugas/input_No Surat Tugas_TblSuratTugasNoSuratTugas'), noSuratTugas)
 
-WebUI.setText(findTestObject('Object Repository/Input Surat Tugas/input_Tgl Surat Tugas_TblSuratTugasTglSuratTugas'), '04/22/2024')
+WebUI.setText(findTestObject('Object Repository/Input Surat Tugas/input_Tgl Surat Tugas_TblSuratTugasTglSuratTugas'), tglSuratTugas)
 
 WebUI.click(findTestObject('Object Repository/Input Surat Tugas/input_Periode Awal Sampling_TblSuratTugasPe_ed0408'))
 
@@ -82,6 +82,8 @@ not_run: WebUI.click(findTestObject('Object Repository/Input Surat Tugas/li_Indr
 WebUI.click(findTestObject('Input Surat Tugas/button_Simpan'))
 
 WebUI.acceptAlert()
+
+WebUI.verifyTextPresent('Sukses!', false)
 
 WebUI.closeBrowser()
 

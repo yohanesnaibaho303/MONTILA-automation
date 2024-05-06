@@ -31,11 +31,11 @@ WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Upload ST/span_Pi
 
 WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/li_Surat Tugas'))
 
-WebUI.verifyElementClickable(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'))
+WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf')
 
-WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'))
+WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/button_Upload'))
 
-WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf(1)')
+WebUI.verifyTextNotPresent('hanya file pdf yang bisa diupload', false)
 
-WebUI.closeBrowser()
+WebUI.comment('Bug masi butuh diperbaiki programmer')
 
