@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Input Nominal Faskes</name>
+   <tag></tag>
+   <elementGuidId>89d794d5-607a-479d-a877-8cef78354c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and @name = 'Pengembalian' and (text() = 'Input Nominal Faskes' or . = 'Input Nominal Faskes')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Temuan'])[1]/preceding::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;Pengembalian&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;098 Permasalahan perihal keamanan website updated 2x Perencanaan Strategis Input Nominal Faskes Lihat Temuan Lihat Rekomendasi Edit Hapus&quot;i] >> button[name=&quot;Pengembalian&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67bbe7de-a399-40c7-87b4-c0e3481fa88d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a1864149-942d-4177-a18e-49a3640d5219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>0024212e-9d5c-45a3-81af-faa28dce6dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Pengembalian</value>
+      <webElementGuid>15dc861c-bd74-4832-a526-82132dd108bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>R3oxdDZyV0JCSk5YWlFxbEJJeVl2Zz09</value>
+      <webElementGuid>4c2f9876-a1fa-42b6-92fc-d97b0c0118de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-confirm</name>
+      <type>Main</type>
+      <value>Apakah anda yakin akan mengisi nilai kerugian?</value>
+      <webElementGuid>75eacee7-9389-4ec6-90ec-1c079cf1869a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Input Nominal Faskes</value>
+      <webElementGuid>b1fb577b-c00c-47b9-9687-fc38d5614edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w4-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w4&quot;]/td[@class=&quot;skip-export kv-align-center kv-align-middle w4&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>6890162f-d2ab-479c-8f87-d99925bed652</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='Pengembalian']</value>
+      <webElementGuid>70fcb9aa-5539-4cce-8c90-57a5d0a815da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w4-container']/table/tbody/tr/td[4]/button</value>
+      <webElementGuid>90577bd6-4ff9-4079-a969-4722c4f269ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perencanaan Strategis'])[1]/following::button[1]</value>
+      <webElementGuid>65a86027-3039-4f9f-96f4-401e4fcbed55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Temuan'])[1]/preceding::button[1]</value>
+      <webElementGuid>22e66a4d-0805-4dff-bd2e-de8bb9c96ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Rekomendasi'])[1]/preceding::button[1]</value>
+      <webElementGuid>944b80d3-d506-462d-86d7-aeaf941b8dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Input Nominal Faskes']/parent::*</value>
+      <webElementGuid>89f40a1d-1e87-49ef-8935-592533fa9d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>d9eb0968-81cc-4dbc-8c0e-88e3d40d2f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'Pengembalian' and (text() = 'Input Nominal Faskes' or . = 'Input Nominal Faskes')]</value>
+      <webElementGuid>2acb89ec-1342-458e-afee-6d44c9f5f971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

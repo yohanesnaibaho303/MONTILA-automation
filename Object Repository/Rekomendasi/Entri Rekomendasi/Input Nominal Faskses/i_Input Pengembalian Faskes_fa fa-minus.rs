@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Input Pengembalian Faskes_fa fa-minus</name>
+   <tag></tag>
+   <elementGuidId>7e7ee17f-bbc5-45eb-8634-a7aaf9e9e909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dynamic-form']/div/div[2]/div[8]/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-minus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f946a39b-cd11-4039-b00e-cb40d69ad564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-minus</value>
+      <webElementGuid>af7f07ff-e4e6-4cf1-a98e-94bd82abd8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;box box-solid box-success&quot;]/div[@class=&quot;box-header with-border&quot;]/div[@class=&quot;box-tools pull-right&quot;]/button[@class=&quot;btn btn-box-tool&quot;]/i[@class=&quot;fa fa-minus&quot;]</value>
+      <webElementGuid>87058158-a25d-4c76-b1b8-1034568931f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div[2]/div[8]/div/div/button/i</value>
+      <webElementGuid>66d7b822-80db-40a0-8881-0b968221827b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/button/i</value>
+      <webElementGuid>20d95f93-768b-4eb4-a115-3856fdafde8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

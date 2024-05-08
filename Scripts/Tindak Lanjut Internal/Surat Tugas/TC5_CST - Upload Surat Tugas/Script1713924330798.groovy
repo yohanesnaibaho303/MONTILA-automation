@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Cari Surat Tugas/Upload ST/span_Pi
 
 WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/li_Surat Tugas'))
 
-WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Downloads\\laporan.pdf')
+WebUI.uploadFile(findTestObject('Cari Surat Tugas/Upload ST/input_Browse_TblDokumentasiAuditfile'), 'C:\\Users\\yohan\\Katalon Studio\\dummy\\dummy-laporan.pdf')
 
 WebUI.click(findTestObject('Cari Surat Tugas/Upload ST/button_Upload'))
 

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Faskes yang melakukan pengembalian</name>
+   <tag></tag>
+   <elementGuidId>7a6a7001-48f4-4a79-b670-204a0afed269</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Faskes yang melakukan pengembalian' or . = 'Faskes yang melakukan pengembalian')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dynamic-form']/div/div[2]/div[8]/div[2]/div[3]/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Faskes yang melakukan pengembalian&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>6f320765-01ee-4426-85f0-28a4be2dfddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>a829ae5f-85b6-4491-a8d7-185db3346609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>94%</value>
+      <webElementGuid>94bf404e-615b-4fae-bbdd-1a81e3fd7cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faskes yang melakukan pengembalian</value>
+      <webElementGuid>011f5b4d-66a0-477c-92db-699f52255a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;box box-solid box-success&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;dynamicform_pengembalianfaskes&quot;]/table[@class=&quot;table table-bordered table-striped&quot;]/thead[1]/tr[1]/th[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>b5f6b254-d3d9-47f4-8d27-cf6dfc4063a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div[2]/div[8]/div[2]/div[3]/table/thead/tr/th</value>
+      <webElementGuid>8be9a62f-c948-4391-833a-c7c7ffb011cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Cabang yang diinput'])[1]/following::th[1]</value>
+      <webElementGuid>4faefe4b-2016-4b5c-96ad-2fb3bcb69ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input pengembalian Faskes!'])[1]/following::th[1]</value>
+      <webElementGuid>916318e2-24b1-43c3-a10f-8888a103f8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan lampiran'])[1]/preceding::th[2]</value>
+      <webElementGuid>b11e3c3f-c0e9-4db9-96ef-91689d39ed6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File - (Ext yang bisa diupload .xlsx) dengan ukuran file maksimal 20Mb'])[1]/preceding::th[2]</value>
+      <webElementGuid>9098afe4-0a98-4c84-9408-676756feea83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Faskes yang melakukan pengembalian']/parent::*</value>
+      <webElementGuid>d73159c1-9a6f-45c5-9c85-f263aa6b9486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/thead/tr/th</value>
+      <webElementGuid>941588ff-59b9-43f1-9d07-9ce2b4840df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Faskes yang melakukan pengembalian' or . = 'Faskes yang melakukan pengembalian')]</value>
+      <webElementGuid>9949490f-16b7-4782-9ad1-578f3216331f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

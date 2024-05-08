@@ -7,14 +7,6 @@
    <imagePath>Screenshots/Targets/Page_Dokumentasi Audit Internal/input_Browse_TblDokumentasiAuditfile.png</imagePath>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//input[@type = 'file' and @id = 'tbldokumentasiaudit-file']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value>Screenshots/Targets/Page_Dokumentasi Audit Internal/input_Browse_TblDokumentasiAuditfile.png</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='tbldokumentasiaudit-file']</value>
       </entry>
@@ -22,15 +14,23 @@
          <key>CSS</key>
          <value>#tbldokumentasiaudit-file</value>
       </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Dokumentasi Audit Internal/input_Browse_TblDokumentasiAuditfile.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'file' and @id = 'tbldokumentasiaudit-file']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
          <value>internal:label=&quot;Dokumen yang di Upload&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4889603a-d97b-46ab-8c62-7f7cdeae04d5</webElementGuid>
+      <webElementGuid>2f3d9a97-0c74-42b2-8565-807df5982675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>a17e2c35-25c8-4fcd-91f8-271b36178228</webElementGuid>
+      <webElementGuid>237f4216-f18e-4954-a52a-d52584c9a7cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tbldokumentasiaudit-file</value>
-      <webElementGuid>be334088-fb0a-4744-bf84-6f632b7ab652</webElementGuid>
+      <webElementGuid>0d117a8e-64f7-450d-8141-12562c23410a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>98ff53db-0ea2-4d6c-9bf4-e2581545acea</webElementGuid>
+      <webElementGuid>3b84aef6-1ecc-4b3c-9bfd-efe0a21e7df4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>TblDokumentasiAudit[file]</value>
-      <webElementGuid>4651d53d-4b6c-4da5-992f-52459aa3617b</webElementGuid>
+      <webElementGuid>00725feb-df3d-4951-b88c-97c110a637dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>application/pdf</value>
-      <webElementGuid>39d0e55f-6d83-4476-b2cf-7e901f07e139</webElementGuid>
+      <webElementGuid>8c72e3bc-74c9-43b2-8cb8-c4f6576b7d57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-krajee-fileinput</name>
       <type>Main</type>
       <value>fileinput_bde51446</value>
-      <webElementGuid>40f81400-88ea-4549-bbe2-34f99a51593c</webElementGuid>
+      <webElementGuid>574ad041-ce6f-418a-a548-ec30afb57319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tbldokumentasiaudit-file&quot;)</value>
-      <webElementGuid>c6658e95-2fb7-4b0c-9413-ae0e35c0853e</webElementGuid>
+      <webElementGuid>eac09b7b-75f6-4850-a39d-c4dbdda0258e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tbldokumentasiaudit-file']</value>
-      <webElementGuid>8ed5587e-a289-480b-a3d0-ca5a25cdf66f</webElementGuid>
+      <webElementGuid>fdf2b2e6-31e6-4a6e-9d43-ac9770d25316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='w0']/div/div[2]/div[2]/div[2]/div/div/div/div/div[3]/div/div/div/input</value>
-      <webElementGuid>f6b42a0c-3075-4e00-bdb0-2c763b75c882</webElementGuid>
+      <webElementGuid>5d6e9af5-6d1e-426d-8024-b7b0d8ba5bec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>640bd9e5-c617-49fa-bd86-58bdbbcfc82d</webElementGuid>
+      <webElementGuid>e5ddd6d9-aa48-4376-89b8-f38d359ac9bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @id = 'tbldokumentasiaudit-file' and @name = 'TblDokumentasiAudit[file]']</value>
-      <webElementGuid>e07e9088-230d-4724-a726-506d944464f8</webElementGuid>
+      <webElementGuid>1a959847-ccd6-4bac-89c0-de743a66a8f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
