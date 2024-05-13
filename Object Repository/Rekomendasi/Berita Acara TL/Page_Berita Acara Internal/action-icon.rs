@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>action-icon</name>
+   <tag></tag>
+   <elementGuidId>3fd40be2-8429-4bca-bfc9-57ff23804c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0']/table/tbody/tr/td[11]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2023 testmontila/spi/1123 Kepwil I Pemeriksaan Rutin Kepwil I 5 0 0 5 Dalam Pemantauan ✏&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28d2aa09-b134-4932-b452-cb260a83da20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-pencil</value>
+      <webElementGuid>cf5a5e98-59c6-4417-9e0e-d7b0f7f411b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[1]/td[11]/a[@class=&quot;btn btn-sm btn-primary&quot;]/span[@class=&quot;glyphicon glyphicon-pencil&quot;]</value>
+      <webElementGuid>e0482e5e-fffd-4a63-8ca1-bc3968cea709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0']/table/tbody/tr/td[11]/a/span</value>
+      <webElementGuid>14ab5a80-2c63-4c46-8a43-c2b2ee6a2e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/a/span</value>
+      <webElementGuid>154769e7-400e-4322-9605-6b7de46f5a56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

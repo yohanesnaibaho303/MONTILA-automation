@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Buat BA</name>
+   <tag></tag>
+   <elementGuidId>ca2b55b0-d6ed-4e59-a839-5fa62f3757be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0']/table/tbody/tr[3]/td[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(11) > a.btn.btn-sm.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2023 1311/I.1/0123 Kepwil II Pemeriksaan Rutin Kepbid Akun 1 1 0 0 Tuntas ✏&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0aea9a33-09dd-4b35-bde5-d36d9aed41af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>9ffc30c5-beeb-4b16-b672-6d835c0a5b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/sitemontilainternal/buatberitaacara?IdST=S1lpcGw2L011aGxiN0ZuZGNkVXBmQT09&amp;IdUnitKerja=QUxpREpTWVkxSWprNFBCa2hYNE5oQT09&amp;Jumlah=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Tuntas=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;BelumTuntas=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;Tdd=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;DalamPemantauan=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09</value>
+      <webElementGuid>03fd444b-8843-4a45-b590-5152dbe84716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>535ad369-e210-45e4-a65b-80325098704a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[3]/td[11]/a[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>3cb4ea3e-4b68-49c8-9f1b-d81a579212ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0']/table/tbody/tr[3]/td[11]/a</value>
+      <webElementGuid>5a433627-6a0a-4f8e-ac87-f1bd25b7d922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuntas'])[2]/following::a[1]</value>
+      <webElementGuid>49748a8b-ae06-4e09-a3ce-6453900fa080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepbid Akun'])[3]/following::a[1]</value>
+      <webElementGuid>8ab46b6c-7e42-4fa6-8f8c-b6b48ef9087b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepwil II'])[6]/preceding::a[1]</value>
+      <webElementGuid>5b5c0bb9-86c0-475d-8c01-988254d12d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeriksaan Rutin'])[4]/preceding::a[1]</value>
+      <webElementGuid>40ae4417-8360-4079-9913-b9fa070df424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/sitemontilainternal/buatberitaacara?IdST=S1lpcGw2L011aGxiN0ZuZGNkVXBmQT09&amp;IdUnitKerja=QUxpREpTWVkxSWprNFBCa2hYNE5oQT09&amp;Jumlah=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Tuntas=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;BelumTuntas=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;Tdd=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;DalamPemantauan=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09')]</value>
+      <webElementGuid>0ab581e8-0207-4c5c-aec2-8cf4381527b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[11]/a</value>
+      <webElementGuid>3495e975-ccdd-4c68-81a8-c187ed4ffe7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/sitemontilainternal/buatberitaacara?IdST=S1lpcGw2L011aGxiN0ZuZGNkVXBmQT09&amp;IdUnitKerja=QUxpREpTWVkxSWprNFBCa2hYNE5oQT09&amp;Jumlah=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;Tuntas=NFFTejA2TGszdGVsWXN3Q1Y5d2hxZz09&amp;BelumTuntas=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;Tdd=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09&amp;DalamPemantauan=MUJJNi9KY0VmQmcwY0drQkdkOW5Xdz09']</value>
+      <webElementGuid>8dbfec6e-5fd6-499f-8641-7b827b271807</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
