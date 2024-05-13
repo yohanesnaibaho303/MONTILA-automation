@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Permohonan Informasi</name>
+   <tag></tag>
+   <elementGuidId>0fdd97f0-751c-4e8c-97e4-58c6cf7991e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-md.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Permohonan Informasi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ceafbde4-d1fc-49c1-94a0-51937f88bd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-primary</value>
+      <webElementGuid>a76a6c1a-249b-4c2f-9222-bd603062115f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>modallogin()</value>
+      <webElementGuid>785152a1-2e6b-4355-a7d5-e213e901fcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permohonan Informasi</value>
+      <webElementGuid>5ca8f9e6-4f0a-48aa-9bac-cdba75b33a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-content ng-scope&quot;]/div[@class=&quot;app-content-body fade-in-up ng-scope&quot;]/div[@class=&quot;hbox hbox-auto-xs hbox-auto-sm ng-scope&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;bg-light lter b-b wrapper-md&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-right hidden-xs&quot;]/div[@class=&quot;inline m-r text-left&quot;]/button[@class=&quot;btn btn-md btn-primary&quot;]</value>
+      <webElementGuid>f1d2e7f1-32e3-4f0e-96bd-4788c878d0fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>ee13c0f2-e7d1-4bd8-b1a0-df9c1c11ffac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Aplikasi EPPID BPJS Kesehatan'])[1]/following::button[1]</value>
+      <webElementGuid>6637cc5d-13a6-4fe0-bd7a-81a87665f8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/following::button[1]</value>
+      <webElementGuid>f2561f82-9778-4fc9-95a1-d529d3411b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu sebentar...'])[1]/preceding::button[1]</value>
+      <webElementGuid>941b5abe-6696-4b26-8751-bc39f1bdd01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Layanan ePPID BPJS Kesehatan'])[1]/preceding::button[1]</value>
+      <webElementGuid>78148da2-3a84-4fd5-b04c-658c70511de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permohonan Informasi']/parent::*</value>
+      <webElementGuid>c6f14116-4721-43ae-82d9-c1baa484bc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>4126319a-cf55-4c19-80bf-9de6c5e87611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Permohonan Informasi' or . = 'Permohonan Informasi')]</value>
+      <webElementGuid>5fc7a9c3-63f1-4c51-a264-cca47b27ac24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
