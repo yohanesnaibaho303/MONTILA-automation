@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>internal:role=button[name=&quot;&quot;i] >> nth=1</value>
+         <value>(//button[@type='button'])[6]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
          <value>internal:role=button[name=&quot;&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>e072a2a2-5923-4340-a921-e655190687c0</webElementGuid>
+      <webElementGuid>f7f0b71f-0fca-4c20-949a-696755aa6c16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-plus</value>
-      <webElementGuid>0b016576-0b5d-4b52-96cf-f35c3ddd54fe</webElementGuid>
+      <webElementGuid>05c32fce-3c23-48c9-9003-2eb17e25a6ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;box box-solid box-success collapsed-box&quot;]/div[@class=&quot;box-header with-border&quot;]/div[@class=&quot;box-tools pull-right&quot;]/button[@class=&quot;btn btn-box-tool&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
-      <webElementGuid>6bf5b1d4-9571-4707-87ad-96e7df329a57</webElementGuid>
+      <webElementGuid>34908064-662f-41c9-85b0-14bad8481b6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='dynamic-form']/div/div[2]/div[8]/div/div/button/i</value>
-      <webElementGuid>dcae99bb-d47c-4a7f-90cb-8f0f726c3e65</webElementGuid>
+      <webElementGuid>966fab22-6756-4c7f-b110-92cf6f9c69c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/button/i</value>
-      <webElementGuid>d304ba15-8505-43c7-b589-9542daa7174d</webElementGuid>
+      <webElementGuid>f7aec880-6b3f-4a05-b0d3-cc85322f3d6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

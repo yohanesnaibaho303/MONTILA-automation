@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@name='SimpanMigrasiPengembalian']</value>
+         <value>//button[normalize-space()='Upload']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
          <value>internal:role=button[name=&quot;Upload&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>807e755d-92d8-40e0-82f1-3fac438f7b44</webElementGuid>
+      <webElementGuid>052401ec-5d4e-4caa-99bf-a6ffd26da4f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c0a84141-d028-42b5-a34e-ec1b9ff02430</webElementGuid>
+      <webElementGuid>41dc2d4c-1e82-4048-ad91-47fdc62f1e51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>3b279319-860b-486a-a692-0df85c20239e</webElementGuid>
+      <webElementGuid>6ce5c637-642d-4a32-9f4c-d5d47fce9cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>SimpanMigrasiPengembalian</value>
-      <webElementGuid>d6b3538a-94c4-470e-b582-a33ec1ba3b8f</webElementGuid>
+      <webElementGuid>a541d365-1457-406e-b8b0-c9208c43421e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>SimpanMigrasiPengembalian</value>
-      <webElementGuid>8838ea8b-8338-4fab-8df7-10810a4d8ee4</webElementGuid>
+      <webElementGuid>5befec5a-bf09-4e5e-8d9b-e94d60569ec2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-confirm</name>
       <type>Main</type>
       <value>Apakah anda yakin akan menyimpan pengembalian ini?</value>
-      <webElementGuid>4734986a-73a1-479b-8b99-4bf5aa04321c</webElementGuid>
+      <webElementGuid>ff350ea4-e912-43e3-9fe7-61db9a52fe39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Upload</value>
-      <webElementGuid>32bb0230-07e0-4210-a366-4e701eac554d</webElementGuid>
+      <webElementGuid>b6f4edee-c243-4a05-a89d-d1b2d7a94d5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;box box-solid box-success&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>93e457b0-8182-47f8-8aca-82d22a6f6c8e</webElementGuid>
+      <webElementGuid>47fb3a92-09b0-41c0-afb4-d7fe2302164a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='SimpanMigrasiPengembalian']</value>
-      <webElementGuid>ea7b705e-8f90-4d50-8ba9-838422ea78a8</webElementGuid>
+      <webElementGuid>8c706fb0-501c-44e9-8712-05fa83d10171</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='dynamic-form']/div/div[2]/div[9]/div[2]/div[5]/div/button</value>
-      <webElementGuid>c48ab8ca-0f35-42de-ad5c-6e564492ba06</webElementGuid>
+      <webElementGuid>f2a3f582-24e9-4b8e-aa17-8c93c543b210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[2]/following::button[1]</value>
-      <webElementGuid>5222f6b5-62d3-4f83-8c78-66a2532f27c4</webElementGuid>
+      <webElementGuid>23ddc2fa-0538-44cf-9a02-0db397aafa38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[3]/following::button[1]</value>
-      <webElementGuid>d9a09d29-bdb1-4d03-83d1-6b2dd56e95f1</webElementGuid>
+      <webElementGuid>bb30f01d-9c8d-45d6-8ed6-a3fe27aec9b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::button[2]</value>
-      <webElementGuid>502a5009-4fea-4f11-9952-00017528f9e3</webElementGuid>
+      <webElementGuid>145e070b-eb81-460b-95aa-f479b91caea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Kedeputian Bidang Pengawasan Internal.'])[1]/preceding::button[2]</value>
-      <webElementGuid>a5f73b0b-19ac-4de4-9510-b9aa57fbcb64</webElementGuid>
+      <webElementGuid>a30cf340-a655-45ba-a92d-56e5c19515c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
-      <webElementGuid>8ccb27b6-9eb1-45ef-9d9f-599e3c05f779</webElementGuid>
+      <webElementGuid>1aad3554-c60f-48d0-97fe-8479ab7245a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div[5]/div/button</value>
-      <webElementGuid>d7348766-30fd-426e-97e8-f686d2aef3e6</webElementGuid>
+      <webElementGuid>517465fc-1a20-45b1-8767-329a389c837e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'SimpanMigrasiPengembalian' and (text() = 'Upload' or . = 'Upload')]</value>
-      <webElementGuid>24912638-7d03-4306-bf58-9344d37c9f44</webElementGuid>
+      <webElementGuid>b1608241-ad22-41fb-8a5f-8f02ec3055f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

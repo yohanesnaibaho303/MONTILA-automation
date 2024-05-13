@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pengembalian Kerugian (Data Awal LHA_6e1c7b</name>
+   <tag></tag>
+   <elementGuidId>5552507d-4b85-4728-b448-ea61d59ba540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box.box-solid.box-danger.collapsed-box > div.box-header.with-border > div.box-tools.pull-right > button.btn.btn-box-tool</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73597456-5575-4385-b58e-35e07a3c5e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f7031ad-5edc-49f7-b56c-8913481f0875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-box-tool</value>
+      <webElementGuid>7e15fb4a-153a-4e1d-82a4-35cdc95dded6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-widget</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>b4b6d93a-7caa-49a9-9820-9b9eff6344a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pengembalian&quot;)/div[@class=&quot;row active&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;box box-solid box-danger collapsed-box&quot;]/div[@class=&quot;box-header with-border&quot;]/div[@class=&quot;box-tools pull-right&quot;]/button[@class=&quot;btn btn-box-tool&quot;]</value>
+      <webElementGuid>d1486884-0f6d-445c-86ed-b4dbeac553c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>a6a29f28-d141-4321-84ff-31e70f76252e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pengembalian']/div/div[2]/div/div/div/button</value>
+      <webElementGuid>eaca61b0-3718-4ee0-92dd-95db11c123d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengembalian Kerugian (Data Awal LHA)'])[1]/following::button[1]</value>
+      <webElementGuid>20ab9494-4a53-4d05-addb-0d4e974903e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='datalapse_bima.xlsx'])[1]/following::button[1]</value>
+      <webElementGuid>cec4105d-97dc-4b91-bb15-32e619c632dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::button[1]</value>
+      <webElementGuid>37bd7d7b-c5a9-449c-b982-a5f91ce56224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/button</value>
+      <webElementGuid>a8347a2d-6937-4ab0-b73a-5b1a464934a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>9ad196bb-a3f5-4411-b437-2d36da5d7640</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

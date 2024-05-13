@@ -39,7 +39,11 @@ WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Inpu
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Ok (1)'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/icon button pengembalian faskes kedua'))
+
+WebUI.scrollToElement(findTestObject('Cari Surat Tugas/Upload ST/button_Upload'), 0)
 
 WebUI.uploadFile(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/input_Browse_TblPermasalahanfile_migrasi'), 
     'C:\\Users\\yohan\\Katalon Studio\\dummy\\migrasi-data-faskes.xlsx')

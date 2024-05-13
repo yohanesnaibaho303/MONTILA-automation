@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC16_DELETE Input Nominal Faskses</name>
+   <name>TC15_Input Nominal Faskes</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a5b0a55c-f783-4ed2-8b68-680a5726f5d8</testCaseGuid>
+   <testCaseGuid>32ee4c17-d725-467a-b8e9-cdaf92a0c5b5</testCaseGuid>
 </TestCaseEntity>

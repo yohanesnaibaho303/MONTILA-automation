@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kronologis PKM Mulyaharja.pdf_btn btn-sm _e0d858</name>
+   <tag></tag>
+   <elementGuidId>c0334252-f388-4614-bb2e-2ef02cc5ef67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w0-container']/table/tbody/tr/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > a.btn.btn-sm.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Kronologis PKM Mulyaharja.pdf 2023-10-11 15:52:07.000 &quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e543e75b-eb89-45d0-b178-5aef7b8bdc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>afc54fef-9648-47e0-a359-a9affab9be92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/site/bacafile?path=cmczcWZrSjEzSEwvTFlINTUzWEVXcFB5RzNGME1DODF6L0w0ank4aGQ3UUxuNjRIWlNqUmtMZzhzRVNSZ3h3L2NaekZsZk5Mc0VmZkozTklsTnVEZ2c9PQ%3D%3D</value>
+      <webElementGuid>32c5d335-1efa-4fc3-9670-aa9854cfc5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>46a7a949-92cb-4602-803e-8fe88d86bc94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0-container&quot;)/table[@class=&quot;kv-grid-table table table-bordered table-striped kv-table-wrap&quot;]/tbody[1]/tr[@class=&quot;w0&quot;]/td[4]/a[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>58b0cb42-081a-41f7-88cb-e842c0496683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w0-container']/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>36718421-a7e2-4abd-bea8-dad4eef0e8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kronologis PKM Mulyaharja.pdf'])[1]/following::a[1]</value>
+      <webElementGuid>7ed0c260-af6b-4f10-ad74-b1d297437416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca file'])[1]/following::a[1]</value>
+      <webElementGuid>9acb6883-7784-4e6b-8f0e-9133cc6e0e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notdin Audit PKM Belong.pdf'])[1]/preceding::a[1]</value>
+      <webElementGuid>4129af29-2654-49a1-ab8b-ce0bf771eb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notulen pembahasan wasin pkm mulyaharja dengan SEKDA.pdf'])[1]/preceding::a[2]</value>
+      <webElementGuid>c9c61eed-8a9a-4020-b2ea-32e9c114cf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/site/bacafile?path=cmczcWZrSjEzSEwvTFlINTUzWEVXcFB5RzNGME1DODF6L0w0ank4aGQ3UUxuNjRIWlNqUmtMZzhzRVNSZ3h3L2NaekZsZk5Mc0VmZkozTklsTnVEZ2c9PQ%3D%3D')]</value>
+      <webElementGuid>86602a35-7407-4169-bb5c-1b594b1fd6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>9d35a1a7-1153-4eee-b5d0-fdd633ba921e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/site/bacafile?path=cmczcWZrSjEzSEwvTFlINTUzWEVXcFB5RzNGME1DODF6L0w0ank4aGQ3UUxuNjRIWlNqUmtMZzhzRVNSZ3h3L2NaekZsZk5Mc0VmZkozTklsTnVEZ2c9PQ%3D%3D']</value>
+      <webElementGuid>67ca9b06-e43d-49ac-b3ed-f9f105a6518e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

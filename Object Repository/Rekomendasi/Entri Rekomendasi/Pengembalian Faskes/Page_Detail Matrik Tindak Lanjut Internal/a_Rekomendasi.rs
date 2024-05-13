@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>a_Rekomendasi</name>
    <tag></tag>
-   <elementGuidId>c723b0c0-c743-4974-a350-7ed97898090b</elementGuidId>
+   <elementGuidId>d3f055ff-feb8-48ab-aa97-821e35c09f0f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//ul[@id='w12']/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-md.btn-success.btn-block</value>
+         <value>#w12 > li:nth-of-type(2) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Log in&quot;i]</value>
+         <value>internal:role=tab[name=&quot;Rekomendasi&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -28,119 +28,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>05e8e4de-c2f7-4ecb-a0f8-9398a616e837</webElementGuid>
+      <value>a</value>
+      <webElementGuid>0cefb724-6104-4396-9f12-85d6b5101825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>64d64539-0f9d-4d22-a375-21710a44b4ed</webElementGuid>
+      <value>#w12-tab1</value>
+      <webElementGuid>9c682396-0728-4469-944c-2f584e898440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-toggle</name>
       <type>Main</type>
-      <value>btn btn-md btn-success btn-block</value>
-      <webElementGuid>1157238b-8a91-41a9-a70d-4a7f27edd82f</webElementGuid>
+      <value>tab</value>
+      <webElementGuid>a7e16dd1-fde1-4557-a2fc-ed78133c3562</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-click</name>
+      <name>role</name>
       <type>Main</type>
-      <value>submitlogin()</value>
-      <webElementGuid>25117f35-3995-4c45-83d0-ccd178d60511</webElementGuid>
+      <value>tab</value>
+      <webElementGuid>bbafa5b8-3182-4e83-ae37-47dee672bd2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-disabled</name>
-      <type>Main</type>
-      <value>form.$invalid</value>
-      <webElementGuid>7286b07a-37f4-4697-91c8-68f185103f91</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>58b673b7-bd3f-4dc5-b510-3c2056720c39</webElementGuid>
+      <webElementGuid>a02f7894-fdc8-459d-b8c4-5aba396278a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>w12-tab1</value>
+      <webElementGuid>c5f9303c-23fd-4ba1-bcfa-2b63a89dd5e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>61e0dd47-3280-45ac-b79a-d7aeb4df9fb3</webElementGuid>
+      <value> Rekomendasi </value>
+      <webElementGuid>11e29121-344a-489a-86c1-5157cfaf86ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;ng-scope modal-open&quot;]/div[@class=&quot;modal fade ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body ng-scope&quot;]/div[1]/form[@class=&quot;form-validation ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-md btn-success btn-block&quot;]</value>
-      <webElementGuid>00b530e6-c2d8-48cf-aa92-73aa544f69a4</webElementGuid>
+      <value>id(&quot;w12&quot;)/li[2]/a[1]</value>
+      <webElementGuid>46b8e924-6c31-400c-91e4-86f1f04e15cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>22dbe4b1-9bb4-4572-934e-f65d1aa59ff7</webElementGuid>
+      <value>//ul[@id='w12']/li[2]/a</value>
+      <webElementGuid>a585c5f7-d13b-47d2-b8b0-0612fec30562</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
-      <webElementGuid>a9905e9c-7fe5-4339-9e32-7a31e340891c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permasalahan'])[1]/following::a[1]</value>
+      <webElementGuid>5fa54e75-d11a-48c7-8c5d-138b287daa33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='disable animations'])[1]/following::button[1]</value>
-      <webElementGuid>e000b174-c042-4976-b39a-6a3136183d42</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Tindak Lanjut Investigatif'])[1]/following::a[2]</value>
+      <webElementGuid>c47920d2-fe3d-42ca-90c8-a6adfba88e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
-      <webElementGuid>d0fba945-ab1e-496f-b7a4-c2b19aea4e02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengembalian Faskes'])[2]/preceding::a[1]</value>
+      <webElementGuid>2a9d2197-8372-4992-95c9-53c3445897a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>040e8f7e-8f58-4dda-aeb3-6cc2062364ae</webElementGuid>
+      <value>//a[contains(@href, '#w12-tab1')]</value>
+      <webElementGuid>7b14929e-ad39-428c-b29a-81d23a55cfd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>2da1af76-2483-4326-b60d-1621cb44c095</webElementGuid>
+      <value>//div/ul/li[2]/a</value>
+      <webElementGuid>8bafbad4-83d7-4aea-9775-089a9b2597bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>799a9875-d0be-429d-a6d9-0d2ca62f70a1</webElementGuid>
+      <value>//a[@href = '#w12-tab1' and (text() = ' Rekomendasi ' or . = ' Rekomendasi ')]</value>
+      <webElementGuid>5f34257c-b5c3-4dd8-9ed3-193166569433</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
