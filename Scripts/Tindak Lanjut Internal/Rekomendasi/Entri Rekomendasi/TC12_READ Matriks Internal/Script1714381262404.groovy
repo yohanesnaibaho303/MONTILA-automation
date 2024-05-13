@@ -21,16 +21,19 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1'
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/Entri Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Edit'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Lihat Temuan'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Ok'))
+WebUI.verifyTextPresent('Lihat Permasalahan Internal', false)
 
-WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/textarea_Permasalahan perihal keamanan website'), 
-    'test update automation katalon kedua')
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Tutup'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Update'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Lihat Rekomendasi'))
 
-WebUI.acceptAlert()
+WebUI.verifyTextPresent('Lihat Rekomendasi Internal', false)
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Tutup'))
+
+WebUI.closeBrowser()
 

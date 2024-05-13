@@ -21,13 +21,34 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1'
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/Entri Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Input Nominal Faskes'))
 
 WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Ok'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/a_Lampiran'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/icon button pengembalian faskes pertama'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/icon_delete action'))
+WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/input_Keterangan lampiran_TblPermasalahanKe_6f118f'), 
+    'tiga tiga')
+
+WebUI.uploadFile(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/Upload_input pengembalian faskes'), 
+    'C:\\Users\\yohan\\Katalon Studio\\dummy\\dummy-data-faskes.xlsx')
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Ok (1)'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/icon button pengembalian faskes kedua'))
+
+WebUI.scrollToElement(findTestObject('Cari Surat Tugas/Upload ST/button_Upload'), 0)
+
+WebUI.uploadFile(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/input_Browse_TblPermasalahanfile_migrasi'), 
+    'C:\\Users\\yohan\\Katalon Studio\\dummy\\migrasi-data-faskes.xlsx')
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Upload'))
+
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Input Nominal Faskses/button_Ok'))
 

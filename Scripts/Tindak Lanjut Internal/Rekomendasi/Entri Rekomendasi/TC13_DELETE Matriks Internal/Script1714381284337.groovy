@@ -21,19 +21,15 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1'
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/Entri Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Lihat Temuan'))
+WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
 
-WebUI.verifyTextPresent('Lihat Permasalahan Internal', false)
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Tutup'))
+WebUI.verifyTextPresent('Konfirmasi Penghapusan', false)
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Lihat Rekomendasi'))
-
-WebUI.verifyTextPresent('Lihat Rekomendasi Internal', false)
-
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Read Rekomendasi/a_Tutup'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus_1'))
 
 WebUI.closeBrowser()
 

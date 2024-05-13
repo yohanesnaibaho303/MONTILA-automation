@@ -21,15 +21,16 @@ WebUI.callTestCase(findTestCase('Auth/TC1_Login'), [('user1') : '08176', ('pwd1'
 
 WebUI.callTestCase(findTestCase('Navigation/to TLI - Rekomendasi - Entri Rekomendasi'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Tindak Lanjut Internal/Rekomendasi/Entri Rekomendasi/TC10_Entri Rekomendasi by ID'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.switchToWindowTitle('Lihat Matriks TL Internal')
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Ok'))
 
-WebUI.verifyTextPresent('Konfirmasi Penghapusan', false)
+WebUI.setText(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/textarea_Permasalahan perihal keamanan website'), 
+    'test update automation katalon kedua')
 
-WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Delete Rekomendasi/a_Hapus_1'))
+WebUI.click(findTestObject('Object Repository/Rekomendasi/Entri Rekomendasi/Update Rekomendasi/button_Update'))
 
-WebUI.closeBrowser()
+WebUI.acceptAlert()
 
